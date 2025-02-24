@@ -1,5 +1,5 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Quà tặng Cảm xúc
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://anhlaptrinh.vn/)
+Chương trình chatbot được tạo ra Quà tặng Cảm xúc (https://quatangcamxuc.vn/)
 
 
