@@ -8,139 +8,6 @@ Quy trình tư vấn tại Quà tăng cảm xúc Emogifts:
 4. Báo giá, điều khoản thanh toán
 5. Làm hợp đồng, triển khai sản xuất, làm thủ tục thanh toán
 
-HƯỚNG DẪN LẬP KẾ HOẠCH KINH DOANH tại Quà tặng cảm xúc
-1.	Lập kế hoạch: Việc đầu tiên trước khi triển khai công việc kinh doanh là lập kế hoạch kinh doanh. 
-Kế hoạch kinh doanh phải nêu rõ các nội dung sau:
-
-1)	Đối tượng dự kiến khai thác gồm những khách hàng nào (Lọc trong 20 Lĩnh vực)? Số lượng bao nhiêu khách hàng? 
-2)	Quy mô của họ lớn hay nhỏ? (Dựa trên giá trị hợp đồng quà tặng thường mua hoặc phán đoán dựa trên quy mô của tổ chức) 
-3)	Nhu cầu dự kiến khai thác là gì (5 nhu cầu)? Sản phẩm họ thường làm những sản phẩm gì (9 Công năng)
-4)	Ai thường phụ trách và họ chức vụ gì? Số điện thoại/email của người phụ trách? (Đối tượng cần tiếp cận)
-5)	Đặc điểm mua hàng của họ thế nào? (Dựa trên Bảng sắp xếp các giá trị mà khách hàng mong muốn ở công ty Quà tặng) => Tiếp cận bằng cách nào?
-6)	Họ thường đặt hàng của công ty quà tặng nào (Đối thủ của mình là ai), họ có ưu điểm/nhược điểm gì?
-7)	Dự kiến khi nào bắt đầu triển khai và triển khai trong vòng bao lâu? tiếp cận thành công được bao nhiêu khách hàng? (Thể hiện bằng số khách hàng tiếp cận thành công – KPI – 60/tuần) Doanh số dự kiến mang lại bao nhiêu (Thể hiện bằng số Thoả thuận có được – KPI -5/tuần )
-8)	Lên một vài kịch bản gọi điện tiếp cận khách hàng.
-
-Để thu thập các thông tin về khách hàng và đối thủ, NVKD cần tiến hành bước nghiên cứu thị trường, thông thường theo các cách sau:
-1)	Tìm kiếm thông tin chương trình khuyến mãi trên Internet, qua web chính thức của các nhãn hàng, qua các trang quảng cáo, hoặc qua các shop bán hàng khuyến mãi…
-2)	Tìm kiếm thông tin ngày kỷ niệm qua Google (Từ khoá: Công ty xyz kỷ niệm thành lập, thời điểm đăng tin cách đây 4 hoặc 5 hoặc 9 hoặc 10 năm…)
-3)	Tìm hiểu thông tin về khách hàng thông qua lịch sử tương tác với khách hàng mà các nhân sự cũ đã thực hiện. Lọc ngày kỷ niệm trên Bitrix. 
-4)	Tìm kiếm qua thông tin mời thầu
-5)	Tìm thông tin khách hàng qua Biển quảng cáo, qua các sản phẩm khuyến mại khách đã từng dùng (trên website của đối thủ thường đăng các hình ảnh này), qua các bài quảng cáo trên báo trí/truyền hình
-6)	Xin list khách hàng thông qua các khách hàng thân thiết cùng ngành, hoặc các tổ chức ngành nghề (Hiệp hội thực phẩm chức năng, Hiệp hội chăn nuôi, Hiệp hội xi măng…)
-7)	Tìm kiến thông tin đối thủ qua Internet hoặc hỏi thông tin từ các đồng nghiệp có nhiều kinh nghiệm, hoặc thu thập hồ sơ thầu/hồ sơ năng lực của đối thủ
-8)	Riêng với các khách hàng lớn, NVKD nên đi thị trường để nghiên cứu: trực tiếp đi tham khảo tại các siêu thị, đại lý phân phối để tìm các nhãn hàng nào đang có chương trình khuyến mãi? Sản phẩm nào họ thường dùng? Khoảng ngân sách cho mỗi sản phẩm bao nhiêu? Hình thức khuyến mãi như nào? Công ty quà tặng nào cung cấp? Có thể lân la hỏi người phụ trách phân phối hàng khuyến mãi tới siêu thị để lần ra đầu mối phụ trách làm quà tặng.
-
-Để tìm kiếm người phụ trách, trước tiên phải tìm hiểu Phòng ban nào của Khách hàng phụ trách mảng quà tặng, sau đó mới tìm tới Tên, sđt, email người phụ trách.
-Có các bộ phận thường phụ trách như sau:
-STT	Nhu cầu (Mục đích sử dụng)	Phòng ban thường phụ trách
-1.		Kỷ niệm ngày thành lập
-	-	Với các đơn vị Quân đội, Công an: Phòng chính trị; Phòng hậu cần, Phòng tài chính
--	Với các đơn vị Chính quyền, bộ ban ngành: Văn phòng, Phòng Hành chính/Quản trị, Phòng tài chính
-2.		Trao thưởng (Kỷ niệm chương, Huân chương,  huy chương)	-	Với các Bộ ban ngành, Liên đoàn, Tổng cục: Chánh văn phòng, Vụ tổ chức cán bộ, Vụ pháp chế
--	Với các Đơn vị tổ chức giải: Bộ phận điều phối giải
-3.		Đại hội (Đảng bộ, Công đoàn, Đoàn Thanh niên, Cựu chiến binh, Nông dân, Thi đua yêu nước, Thi đua quyết thắng, Nhiệm kỳ thường 5 năm một lần…)	-	Với các đơn vị Quân đội, Công an: Phòng chính trị; Phòng hậu cần, Phòng tài chính
--	Với các đơn vị Chính quyền, bộ ban ngành: Văn phòng, Phòng Hành chính/Quản trị, Phòng tài chính
--	Với các Tổng công ty/Tập đoàn: Chánh văn phòng, Phòng tài chính
-4.		Chăm sóc khách hàng hoặc nhân viên 	-	Với các Tổng công ty/Tập đoàn: Văn phòng, Phòng kinh doanh
--	Với các Ngân hàng, Bảo hiểm: Phòng mua hàng, Phòng khách hàng cá nhân, Phòng khách hàng doanh nghiệp, 
--	Với các công ty tại các khu công nghiệp: Công đoàn, Phòng mua hàng
-5.		Khuyến mãi	-	Phòng marketing, Phòng mua hàng
-Sau khi xác định được Phòng ban phụ trách, bước quan trọng tiếp theo là Tên người phụ trách, số di động, email, tham khảo các cách sau:
-1)	Gọi điện tới số tổng đài:
-•	Trường hợp gặp lễ tân dễ tính => Hỏi luôn ai là người phụ trách (Ít gặp, nếu có chỉ với khách hàng nhỏ)
-•	Đóng vai khách hàng muốn lên hệ phòng kinh doanh để đc nối máy tới bộ phần kinh doanh, đóng vai người giao hàng để kết nối với phòng Hành chính, đóng vai khách hàng khiếu nại để kết nối tới bộ phận giải quyết khiếu nại... Tiếp theo là tìm Tên người phụ trách qua các bộ phận này, nếu được xin thêm sđt/email.
-•	Tìm số điện thoại của bộ phận kho bãi, rồi đóng vai người đi giao hàng, tìm lý do Tên người phụ trách mua hàng trên Văn phòng công ty.
-2)	Tìm thông tin người phụ trách qua các Fanpage, web tuyển dụng => Có thể tìm thấy thông tin Người phụ trách luôn, hoặc tìm thấy liên hệ của các bộ phận khác từ đó khéo léo xin Tên người phụ trách, nếu được xin thêm sđt/email.
-3)	Tìm thông tin người phụ trách qua các trang đấu thầu: Thường sẽ ghi tên và sđt người nào đó trong Hồ sơ mời thầu, từ đó liên hệ và lân la tìm kiếm người phụ trách quà tặng.
-4)	Nhờ người giới thiệu: Những người làm cùng ngành, cùng lĩnh vực thường sẽ biết nhau, nên tranh thủ thiện cảm của khách hàng này để xin liên hệ khách hàng khác.
-5)	Chủ động gửi catalog kèm quà tặng tới khách hàng: Với các khách hàng lớn, việc tìm người phụ trách tương đối khó, nên tranh thủ các dịp 8/3, 20/10, Halloween, Noel, Tết dương lịch…để liên hệ lễ tân lấy cớ xin gửi quà để xin tên người phụ trách. Với khách hàng ở gần có thể trực tiếp mang qua, giới thiệu “em là đối tác lâu năm của Công ty, bên em có phát triển dòng sản phẩm mới nên gửi khách trải nghiệm, hoặc bên em có quà tri ân gửi tới khách hàng, nhờ chị chuyển giúp em tới Bộ phận mua hàng…ah chị cho em xin tên anh chị thường phụ trách Quà tặng ở phòng ban đó, vì sếp em dặn mà em quên, em gọi sếp ko liên lạc được”…
-Sau khi đã nắm rõ thông tin và những mong muốn của khách hàng, hiểu ưu nhược điểm của  đối thủ, biết thông tin về người phụ trách. Bước cuối cùng của việc lập kế hoạch là Lên một vài kịch bản gọi điện tiếp cận, làm sao nêu bật các ưu điểm của mình để thuyết phục khách cho mình cơ hội hợp tác, đồng thời chuẩn bị sẵn Catalog/Bảng đề xuất sản phẩm để gửi khách hàng.
- 
-2.	Tiếp cận Người phụ trách bằng mọi cách:
-
-Tiếp cận khách hàng không phải hành động chốc lát, mà nó là cả một quá trình, NVKD cần lên rõ lộ trình và tiến từng bước một cho tới khi khách hàng quan tâm tới sản phẩm dịch vụ của mình thì quá trình Tiếp cận mới thành công (Hoàn thành tác vụ Tiếp cận khách hàng trên Bitrix)
-
-Trên cơ sở thông tin khách hàng đã có và kịch bản đã lên, tiến hành gọi điện marketing người phụ trách, cuộc gọi gồm các bước sau:
-1)	Bước 1: Giới thiệu ngắn gọn về bản thân và công ty ( Vd: Em là Mai – Cty Quà tặng Cảm xúc, Bên em chuyên làm quà kỷ niệm cho các khách hàng khối Dược phẩm) – Không quá 3S
-2)	Bước 2: Nêu lý do gọi điện (Vd: Em liên hệ tới xin tư vấn một số mẫu quà tặng mới nhất phục vụ Kỷ niệm/Tri ân khách hàng/Khuyến mại…Bên em đã làm rất nhiều cho khách hàng khối Dược như bên Dược phẩm Thiên Phúc em có làm với anh A sản phẩm …)
-3)	Bước 3: Nếu khách hàng từ chối  cố gắng xin 1 phút, rồi trình bày ngắn gọn các giá trị mà mình có thể mang tới cho khách hàng lưu ý ưu tiên các giá trị trọng yếu trước, hoặc em xin gọi lại anh chị vào 11h30p trưa nay/17h chiều nay/Đầu giờ sáng mai… nhé ạ, hoặc chị cho em xin Email/Zalo để gửi các mẫu mới nhất, xin hứa ko làm phiền anh chị. 
-Nếu khách hàng quan tâm  Tiến hàng xác định nhu cầu, lưu ý luôn đặt câu hỏi gợi mở:
-•	Muốn biết khách hàng quan tâm tới sản phẩm gì: Em thấy bên mình phù hợp với Đồ gia dụng, chị thấy sao ạ?
-•	Muốn biết ngân sách dự kiến cho mỗi sản phẩm là bao nhiêu: Chắc bên mình dự trù ngân sách khoảng 300-500k cho mỗi sản phẩm anh chị nhỉ?
-•	Muốn biết số lượng dự kiến bao nhiêu: Chắc mình sẽ đặt khoảng 500-1.000 xuất chị nhỉ?
-•	Muốn biết khi nào phải giao hàng: Chắc khoảng cuối tháng sau chị mới cần hàng nhỉ? Thông thường bên em mất khoảng 30-40 ngày để giao hàng.
-•	Luôn chủ động đưa ra các đề xuất sơ bộ và lắng nghe phản hồi từ khách hàng.
-4)	Bước 4: Gửi tài liệu qua zalo/email cho người phụ trách, sáng gửi thì chiều gọi lại, hoặc ngay ngày hôm sau phải gọi lại nhắc họ xem tài liệu hoặc xem rồi thì thăm hỏi xem họ có quan tâm tới sản phẩm nào chưa?
-Lưu ý: Mỗi cuộc gọi lại phải cung cấp cho khách hàng một thông tin mới, một vài giải pháp sản phẩm mới, truyền tải một vài giá trị mình sẽ mang tới cho khách hàng…Để tạo thiện cảm với khách hàng.
-
-Sản phẩm quà tặng tại Quà tặng Cảm xúc:
-STT	Danh mục	Sản phẩm
-1.		Quà tặng Công nghệ	
--	Pin sạc dự phòng
--	Đèn led để bàn
--	Cáp sạc, tai nghe, loa nghe nhạc
--	Máy lọc không khí
--	Đồng hồ thông minh
--	Cân sức khoẻ, thiết bị chăm sóc sức khoẻ
-2.		Quà tặng Gia dụng	
--	Nồi chảo
--	Dụng cụ nấu ăn
--	Dụng cụ dùng trên bàn ăn (Tô, bát, đĩa, muỗng, dĩa…)
--	Ly cốc sứ, thuỷ tinh
--	Bộ uống rượu vang, hộp đựng rượu, mở rượu vang
--	Máy sấy tóc
--	Ấm siêu tốc
--	Phíc giữ nhiệt, bình giữ nhiệt
--	Cân sức khoẻ, thiết bị chăm sóc sức khoẻ
-3.	Quà tặng Du lịch	
--	Ô dù
--	Áo thun, áo gió
--	Lều trại
--	Xe đạp thể thao
--	Balo, túi xách, vali
--	Bình cốc giữ nhiệt
--	Pin sạc dự phòng
-4.	Quà tặng Văn phòng	
--	Bút bi, bút ký, sổ tay
--	Bình hoa, bình trang trí, vật phẩm phong thuỷ
--	Ly cốc, ấm chén
--	Bộ uống rượu vang, hộp đựng rượu, mở rượu vang
--	Ly giữ nhiệt, bình giữ nhiệt
--	Pin sạc, cáp sạc
-5.	Quà tặng Mẹ và Bé	
--	Balo, túi xách cho bé
--	Giày dép, tất, găng tay cho bé
--	Bình, ly cốc cho bé
--	Tô, bát, đĩa, muỗng, dĩa cho bé tập ăn
--	Bộ dụng cụ học tập 
--	Đồ chơi cho bé
--	Xe chòi, thú nhún, bập bênh, xe đạp
-6.	Quà tặng Phát mãi	
--	Bút bi, móc khoá, khui bia, bấm móng tay, bật lửa, vòng đeo tay
--	Quạt cầm tay
--	Ô dù, áo mưa, áo thun, mũ lưỡi trai, mũ bảo hiểm
--	Cốc sứ, cốc thuỷ tinh, bình nước
--	Balo, túi xách, ví cầm tay
-7.	Ấm chén – Bình cốc 	
--	Bộ ấm chén Bát Tràng, Minh Long, Long Phương, Hào Cảnh, Trung Quốc…
--	Bộ bình cốc thuỷ tinh Tiệp, Luminarc, Ocean, UG, Trung Quốc…
--	Bình hút lộc gốm sứ Bát Tràng, Chu Đậu…
--	Bình hoa phale Tiệp, bình hoa thuỷ tinh Trung Quốc
-8.	Cặp xách – Balo – Vali	
--	Cặp xách đựng tài liệu, laptop
--	Balo đựng laptop, balo đi học, balo đi du lịch
--	Vali cho trẻ em, vali du lịch
--	Túi đeo chéo
--	Túi ví cá nhân, túi chuyên dụng chơi golf…
-9.	Biểu trưng – Logo	
--	Biểu trưng kim loại
--	Biểu trưng phale
--	Huy chương, Huy hiệu, Kỷ niệm chương
--	Cúp, bảng vinh danh
-Tham khảo các sản phẩm mới nhất tại: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.header.1485.609c67afYcu4Sx&categoryId=100003291&SearchText=Vacuum+Flasks+%26+Thermoses&indexArea=product_en&fsb=y&productId=1601300736304
-
-
 
 ĐÀO TẠO NHÂN VIÊN TẠI EMOGIFTS
 
@@ -236,7 +103,6 @@ Vốn điều lệ: 5.000.000.000vnđ (Năm tỷ đồng)
 •Lĩnh vực hoạt động: 
 Cung cấp Quà tặng, với hàng nghìn đầu mục sản phẩm như: Ô dù, áo mưa, áo thun, ly cốc, ấm chén, pin sạc dự phòng, túi xách du lịch… Các sản phẩm này được sử dụng cho các chương trình: Kỷ niệm ngày thành lập, Trao thưởng, Đại hội, Chăm sóc khách hàng hoặc nhân viên, Khuyến mãi…
 
-BẢNG MÔ TẢ CÔNG VIỆC (BSUNG)
 
 •Văn hóa công ty:
 Văn hóa doanh nghiệp là những thói quen, lề lối làm việc, phương cách ứng xử cùng hành vi của những con người trong một doanh nghiệp.
@@ -284,14 +150,17 @@ II. SẢN PHẨM – KHÁCH HÀNG CỦA CÔNG TY:
 Có hàng nghìn sản phẩm hàng hóa trên thị trường có thể sử dung làm Quà tặng, tuy nhiên để dễ dàng quản lý, chúng ta phân loại theo các tiêu chí sau:
 Bảng phân loại sản phẩm theo Công năng (09 nhóm công năng):
 Chúng ta sẽ thấy một sản phẩm có nhiều công năng khác nhau, nên sẽ cùng nằm trong nhiều Danh mục.
+Sản phẩm quà tặng tại Quà tặng Cảm xúc:
 STT	Danh mục	Sản phẩm
-1.		Quà tặng Công nghệ	-	Pin sạc dự phòng
+1.		Quà tặng Công nghệ	
+-	Pin sạc dự phòng
 -	Đèn led để bàn
 -	Cáp sạc, tai nghe, loa nghe nhạc
 -	Máy lọc không khí
 -	Đồng hồ thông minh
 -	Cân sức khoẻ, thiết bị chăm sóc sức khoẻ
-2.		Quà tặng Gia dụng	-	Nồi chảo
+2.		Quà tặng Gia dụng	
+-	Nồi chảo
 -	Dụng cụ nấu ăn
 -	Dụng cụ dùng trên bàn ăn (Tô, bát, đĩa, muỗng, dĩa…)
 -	Ly cốc sứ, thuỷ tinh
@@ -300,44 +169,54 @@ STT	Danh mục	Sản phẩm
 -	Ấm siêu tốc
 -	Phíc giữ nhiệt, bình giữ nhiệt
 -	Cân sức khoẻ, thiết bị chăm sóc sức khoẻ
-3.		Quà tặng Du lịch	-	Ô dù
+3.	Quà tặng Du lịch	
+-	Ô dù
 -	Áo thun, áo gió
 -	Lều trại
 -	Xe đạp thể thao
 -	Balo, túi xách, vali
 -	Bình cốc giữ nhiệt
 -	Pin sạc dự phòng
-4.		Quà tặng Văn phòng	-	Bút bi, bút ký, sổ tay
+4.	Quà tặng Văn phòng	
+-	Bút bi, bút ký, sổ tay
 -	Bình hoa, bình trang trí, vật phẩm phong thuỷ
 -	Ly cốc, ấm chén
 -	Bộ uống rượu vang, hộp đựng rượu, mở rượu vang
 -	Ly giữ nhiệt, bình giữ nhiệt
 -	Pin sạc, cáp sạc
-5.		Quà tặng Mẹ và Bé	-	Balo, túi xách cho bé
+5.	Quà tặng Mẹ và Bé	
+-	Balo, túi xách cho bé
 -	Giày dép, tất, găng tay cho bé
 -	Bình, ly cốc cho bé
 -	Tô, bát, đĩa, muỗng, dĩa cho bé tập ăn
 -	Bộ dụng cụ học tập 
 -	Đồ chơi cho bé
 -	Xe chòi, thú nhún, bập bênh, xe đạp
-6.		Quà tặng Phát mãi	-	Bút bi, móc khoá, khui bia, bấm móng tay, bật lửa, vòng đeo tay
+6.	Quà tặng Phát mãi	
+-	Bút bi, móc khoá, khui bia, bấm móng tay, bật lửa, vòng đeo tay
 -	Quạt cầm tay
 -	Ô dù, áo mưa, áo thun, mũ lưỡi trai, mũ bảo hiểm
 -	Cốc sứ, cốc thuỷ tinh, bình nước
 -	Balo, túi xách, ví cầm tay
-7.		Ấm chén – Bình cốc 	-	Bộ ấm chén Bát Tràng, Minh Long, Long Phương, Hào Cảnh, Trung Quốc…
+7.	Ấm chén – Bình cốc 	
+-	Bộ ấm chén Bát Tràng, Minh Long, Long Phương, Hào Cảnh, Trung Quốc…
 -	Bộ bình cốc thuỷ tinh Tiệp, Luminarc, Ocean, UG, Trung Quốc…
 -	Bình hút lộc gốm sứ Bát Tràng, Chu Đậu…
 -	Bình hoa phale Tiệp, bình hoa thuỷ tinh Trung Quốc
-8.		Cặp xách – Balo – Vali	-	Cặp xách đựng tài liệu, laptop
+8.	Cặp xách – Balo – Vali	
+-	Cặp xách đựng tài liệu, laptop
 -	Balo đựng laptop, balo đi học, balo đi du lịch
 -	Vali cho trẻ em, vali du lịch
 -	Túi đeo chéo
 -	Túi ví cá nhân, túi chuyên dụng chơi golf…
-9.		Biểu trưng – Logo	-	Biểu trưng kim loại
+9.	Biểu trưng – Logo	
+-	Biểu trưng kim loại
 -	Biểu trưng phale
 -	Huy chương, Huy hiệu, Kỷ niệm chương
 -	Cúp, bảng vinh danh
+
+Tham khảo các sản phẩm mới nhất tại: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.header.1485.609c67afYcu4Sx&categoryId=100003291&SearchText=Vacuum+Flasks+%26+Thermoses&indexArea=product_en&fsb=y&productId=1601300736304
+
 
 Bảng phân loại sản phẩm theo Mục đích sử dụng (05 mục đích):
 STT	Nhu cầu (Mục đích sử dụng)	Chủng loại sản phẩm thường dùng
@@ -769,9 +648,9 @@ Một khách hàng sau khi đã tiếp cận thành công (xác định được
 Chăm sóc khách hàng cũng là cả một quá trình, phải định kỳ hàng tháng/quý gửi tài liệu để cập nhật sản phẩm mới, tiếp tục nhồi nhét thương hiệu EmoGifts và những giá trị mà mình có thể cung cấp cho khách hàng, và quan trọng nhất là nắm lấy cơ hội khi họ có nhu cầu. Tuỳ vào cá tính hay mức độ của từng khách hàng mà có thể gọi điện “buôn chuyện”, hoặc chỉ gửi tin nhắn zalo, gửi email đề xuất.
  Trong quá trình chăm sóc khách hàng, luôn cố gắng tìm đủ lý do, bằng mọi cách để được gặp khách hàng (Vd: Vô tình có việc gần VP khách hàng nên mời khách hàng Cafe/ăn trưa, Mời khách hàng lên thăm văn phòng, Nhân ngày lễ/tết gửi quà cho khách hàng, Đang có sản phẩm mới xin được mang qua để giới thiệu công năng cho khách hàng…)
   Mục đích cuộc gặp khách hàng:
-	 Tạo thiện cảm, sự gần gũi, gây dựng lòng tin với khách hàng bằng sự nhiệt tình và tác phong chuyên nghiệp.
-	 Hiểu rõ về đặc thù cá tính, mong muốn của khách hàng, từ đó tìm cách đáp ứng mong muốn đấy.
-	 Hiểu rõ về nhu cầu khách hàng để tư vấn sản phẩm phù hợp.
+-	 Tạo thiện cảm, sự gần gũi, gây dựng lòng tin với khách hàng bằng sự nhiệt tình và tác phong chuyên nghiệp.
+-	 Hiểu rõ về đặc thù cá tính, mong muốn của khách hàng, từ đó tìm cách đáp ứng mong muốn đấy.
+-	 Hiểu rõ về nhu cầu khách hàng để tư vấn sản phẩm phù hợp.
 4.	Xúc tiến bán hàng:
 1)	Xác định nhu cầu: Một khách hàng sau khi Tiếp cận thành công hoặc sau một thời gian dài chăm sóc, họ phát sinh nhu cầu, NVKD cần xác định rõ nhu cầu của khách hàng để triển khai các bước tiếp theo (Sản phẩm cần công năng gì? Dành cho đối tượng nào? Số lượng bao nhiêu? Ngân sách bao nhiêu? Yêu cầu in ấn đóng gói như thế nào? Khi nào cần giao hàng?...)
 2)	Tư vấn mẫu: Dựa trên thông tin khai thác được từ khách hàng về nhu cầu sản phẩm, NVKD tiến hành tập hợp một loại các phương án kèm khoảng giá và tiến độ để gửi và tư vấn cho khách, với các đơn hàng lớn có thể yêu cầu Bộ phận cung ứng hỗ trợ song song. 
@@ -1454,8 +1333,8 @@ Sau khi đạt được thỏa thuận với khách hàng, chốt giá và hoàn
 2)	Số lượng, đơn giá,  tổng giá trị hợp đồng, điều kiện thanh toán
 3)	Thời gian giao hàng, điều kiện giao hàng 
 4)	Theo dõi quá trình thực hiện hợp đồng, phối hợp với các bộ phận để xử lý các sự cố nếu có, lên lịch giao hàng, làm thủ tục thanh toán.
-IV. ĐÀO TẠO PHẦN MỀM BITRIX CRM:  Công ty sẽ có buổi training về phần mềm Bitrix CRM.
-V. BẢNG MÔ TẢ CÔNG VIỆC VÀ QUY TRÌNH NỘI BỘ:
+
+III BẢNG MÔ TẢ CÔNG VIỆC
  
 Vị trí	Chức năng nhiệm vụ
 Giám đốc	      Giám đốc chức năng chính là xác định mục tiêu cho doanh nghiệp, xây dựng chiến lược doanh nghiệp, xây dựng kế hoạch triển khai để đạt mục tiêu cho doanh nghiệp, điều hành hoạt động doanh nghiệp theo chiến lược và kế hoạch đã vạch ra, là cầu nối phối hợp giữa các bộ phận trong công ty, giám sát kiểm tra tình hình và kết quả công việc của các phòng ban, cùng với các bộ phận đưa ra các quyết sách kịp thời nhằm giải quyết tình huống trong kinh doanh, trong sản xuất, trong hoạt động tài chính kế toán.
@@ -1498,5 +1377,9 @@ Nhân viên kinh doanh	- Nắm vững quy trình kinh doanh và thực hiện th
 - Trực tiếp thực hiện, đốc thúc thực hiện hợp đồng, bao gồm các thủ tục giao hàng, xuất hoá đơn, cùng khách hàng kiểm tra chất lượng sản phẩm giao.
 - Nhận và xử lý các khiếu nại của khách hàng về chất lượng sản phẩm, thời gian giao hàng….
 - Hỗ trợ các bộ phận khác trong công ty khi có điều động từ cấp trên.
+
+V: QUY TRÌNH LÀM VIỆC (quy trình làm việc của NVKD, quy trình quản lý cty và phòng kinh doanh của lãnh đạo)
+VI: THAO TÁC BITRIX
+VII: Quy chế lương thưởng tại EmoGifts
 
 
