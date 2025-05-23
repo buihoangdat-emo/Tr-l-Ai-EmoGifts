@@ -76,13 +76,15 @@ Lưu ý: Mỗi cuộc gọi lại phải cung cấp cho khách hàng một thôn
 
 Sản phẩm quà tặng tại Quà tặng Cảm xúc:
 STT	Danh mục	Sản phẩm
-1.		Quà tặng Công nghệ	-	Pin sạc dự phòng
+1.		Quà tặng Công nghệ	
+-	Pin sạc dự phòng
 -	Đèn led để bàn
 -	Cáp sạc, tai nghe, loa nghe nhạc
 -	Máy lọc không khí
 -	Đồng hồ thông minh
 -	Cân sức khoẻ, thiết bị chăm sóc sức khoẻ
-2.		Quà tặng Gia dụng	-	Nồi chảo
+2.		Quà tặng Gia dụng	
+-	Nồi chảo
 -	Dụng cụ nấu ăn
 -	Dụng cụ dùng trên bàn ăn (Tô, bát, đĩa, muỗng, dĩa…)
 -	Ly cốc sứ, thuỷ tinh
@@ -91,71 +93,66 @@ STT	Danh mục	Sản phẩm
 -	Ấm siêu tốc
 -	Phíc giữ nhiệt, bình giữ nhiệt
 -	Cân sức khoẻ, thiết bị chăm sóc sức khoẻ
-3.		Quà tặng Du lịch	-	Ô dù
+3.	Quà tặng Du lịch	
+-	Ô dù
 -	Áo thun, áo gió
 -	Lều trại
 -	Xe đạp thể thao
 -	Balo, túi xách, vali
 -	Bình cốc giữ nhiệt
 -	Pin sạc dự phòng
-4.		Quà tặng Văn phòng	-	Bút bi, bút ký, sổ tay
+4.	Quà tặng Văn phòng	
+-	Bút bi, bút ký, sổ tay
 -	Bình hoa, bình trang trí, vật phẩm phong thuỷ
 -	Ly cốc, ấm chén
 -	Bộ uống rượu vang, hộp đựng rượu, mở rượu vang
 -	Ly giữ nhiệt, bình giữ nhiệt
 -	Pin sạc, cáp sạc
-5.		Quà tặng Mẹ và Bé	-	Balo, túi xách cho bé
+5.	Quà tặng Mẹ và Bé	
+-	Balo, túi xách cho bé
 -	Giày dép, tất, găng tay cho bé
 -	Bình, ly cốc cho bé
 -	Tô, bát, đĩa, muỗng, dĩa cho bé tập ăn
 -	Bộ dụng cụ học tập 
 -	Đồ chơi cho bé
 -	Xe chòi, thú nhún, bập bênh, xe đạp
-6.		Quà tặng Phát mãi	-	Bút bi, móc khoá, khui bia, bấm móng tay, bật lửa, vòng đeo tay
+6.	Quà tặng Phát mãi	
+-	Bút bi, móc khoá, khui bia, bấm móng tay, bật lửa, vòng đeo tay
 -	Quạt cầm tay
 -	Ô dù, áo mưa, áo thun, mũ lưỡi trai, mũ bảo hiểm
 -	Cốc sứ, cốc thuỷ tinh, bình nước
 -	Balo, túi xách, ví cầm tay
-7.		Ấm chén – Bình cốc 	-	Bộ ấm chén Bát Tràng, Minh Long, Long Phương, Hào Cảnh, Trung Quốc…
+7.	Ấm chén – Bình cốc 	
+-	Bộ ấm chén Bát Tràng, Minh Long, Long Phương, Hào Cảnh, Trung Quốc…
 -	Bộ bình cốc thuỷ tinh Tiệp, Luminarc, Ocean, UG, Trung Quốc…
 -	Bình hút lộc gốm sứ Bát Tràng, Chu Đậu…
 -	Bình hoa phale Tiệp, bình hoa thuỷ tinh Trung Quốc
-8.		Cặp xách – Balo – Vali	-	Cặp xách đựng tài liệu, laptop
+8.	Cặp xách – Balo – Vali	
+-	Cặp xách đựng tài liệu, laptop
 -	Balo đựng laptop, balo đi học, balo đi du lịch
 -	Vali cho trẻ em, vali du lịch
 -	Túi đeo chéo
 -	Túi ví cá nhân, túi chuyên dụng chơi golf…
-9.		Biểu trưng – Logo	-	Biểu trưng kim loại
+9.	Biểu trưng – Logo	
+-	Biểu trưng kim loại
 -	Biểu trưng phale
 -	Huy chương, Huy hiệu, Kỷ niệm chương
 -	Cúp, bảng vinh danh
 Tham khảo các sản phẩm mới nhất tại: https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.header.1485.609c67afYcu4Sx&categoryId=100003291&SearchText=Vacuum+Flasks+%26+Thermoses&indexArea=product_en&fsb=y&productId=1601300736304
 
 
-CÔNG TY TNHH QUÀ TẶNG CẢM XÚC
---~~oo00oo~~--
- 
-LƯU HÀNH NỘI BỘ
 
-Quyển số: ………
+ĐÀO TẠO NHÂN VIÊN TẠI EMOGIFTS
 
-
- 
- 
-
-
-PHẦN 1	I.	Sơ lược về ngành quà tặng và công ty	01 ngày
+PHẦN 1	I.	Sơ lược về ngành quà tặng và công ty	
 	II.	Sản phẩm – khách hàng của công ty	
-PHẦN 2	III.	Đào tạo kỹ năng cho Nhân viên kinh doanh	03 ngày
+PHẦN 2	III.	Đào tạo kỹ năng cho Nhân viên kinh doanh
 	IV.	Đào tạo sử dụng phần mềm Quản lý khách hàng	
 	V.	Bảng mô tả công việc và quy trình nội bộ	
 
 
  	
-
- 
- 
-Dù có làm việc ở đâu, thì cũng hãy nhớ 7 nguyên tắc quan trọng này!
+GÓC CHIA SẺ QUAN ĐIỂM LÀM VIỆC: Dù có làm việc ở đâu, thì cũng hãy nhớ 7 nguyên tắc quan trọng này!
 
 Nguyên tắc 1: Công việc không nuôi người nhàn hạ, tập thể không nuôi những kẻ lười.
 Nguyên tắc 2: Vào một đơn vị làm việc, đừng chỉ chăm chăm vào việc kiếm tiền, trước tiên hãy học sao cho mình đáng tiền.
@@ -198,10 +195,11 @@ Nguồn: Sưu tầm
 
  
 I. SƠ LƯỢC VỀ CÔNG TY
-1.	Sự ra đời của ngành quà tặng:
+
+1.Sự ra đời của ngành quà tặng:
 Khoảng nửa đầu thế kỷ 19, Jasper Meeks - một chủ nhà in ở Ohio, Mỹ được xem là một trong những người đầu tiên sáng tạo nên nền công nghiệp sản xuất hàng khuyến mãi khi anh ấy thuyết phục một cửa hàng giày in khắc tên của chính cửa hàng lên sản phẩm Cặp xách và tặng cho các trường học ở địa phương.
 Mãi đến những năm 1970, sự bùng nổ của Quà tặng khuyến mãi mới diễn ra khi hầu hết các công ty nhận ra lợi ích lớn lao đạt được từ việc tặng quà: ngoài việc tạo thiện cảm với khách hàng, gia tăng doanh số trong khi vẫn tiết kiệm chi phí đáng kể so với giảm giá sản phẩm, việc quà tặng có logo riêng sẽ giúp thúc đẩy hình ảnh và thương hiệu của họ. Một trong những công ty tiên phong trong lĩnh vực này là Coca – cola, Pepsi, Uniliver, P&G, Heineken…
-2.	Hiện trạng ngành quà tặng tại Việt Nam:
+2.Hiện trạng ngành quà tặng tại Việt Nam:
 Tại Việt Nam, ngành quà tặng xuất hiện khá muộn do sự lạc hậu về kinh tế. Tới khoảng những năm 2000, sau một loạt các chính sách mở cửa, kinh tế Việt Nam bắt đầu phát triển, ngành quà tặng bắt đầu xuất hiện. Tới nay, trải qua 20 năm mở cửa, kinh tế Việt Nam đang tăng trưởng mạnh, hàng chục nghìn  doanh nghiệp, tổ chức đã hình thành thói quen sử dụng Quà tặng cho các dự án hoặc sự kiện của mình.
 Do đặc trưng sản phẩm Quà tặng rất đa dạng và mẫu mã sản phẩm được cải tiến liên tục, vậy nên không một công ty quà tặng nào là nhà sản xuất, toàn bộ là các công ty thương mại.
 Tại Mỹ, các Công ty quà tặng còn được gọi là Nhà phân phối quà tặng, Các nhà phân phối này có khả năng tìm kiếm và cung cấp hàng chục ngàn sản phẩm từ khắp nơi trên thế giới. Ngay cả khi Internet xuất hiện, rồi Thương mại điện tử phát triển vẫn không thể thay thế được các công ty Quà tặng, thậm trí ngành Quà tặng còn liên tục tăng trưởng, vì một những lý do sau:
@@ -210,20 +208,21 @@ Tại Mỹ, các Công ty quà tặng còn được gọi là Nhà phân phối 
 -	Các thương hiệu tại Việt Nam ngày càng lớn mạnh, trước sức ép cạnh tranh, họ chú trọng vào chiến lượng bán hàng trong đó tặng quà là giải pháp khôn ngoan. Áp lực canh tranh cùng đòi hỏi tính chuyên môn hoá cao, vậy nên đương nhiên họ sẽ thuê ngoài (outsource) thay vì tự làm tất cả.
 -	Ở Việt Nam, các tổ chức/doanh nghiệp Nhà nước còn bị quản lý bởi luật đấu thầu, và các nhà phân phối truyền thống không quen với thủ tục này, mà phải thông qua các công ty Quà tặng để thực hiện quy trình mua sắm theo luật đấu thầu.
 Vậy nên các Công ty quà tặng sẽ luôn có giá trị trong chuỗi cung ứng. 
-3.	Chiến lược cạnh tranh của EmoGifts:
+3.Chiến lược cạnh tranh của EmoGifts:
 Để tạo ra tính cạnh tranh bền vững, mỗi doanh nghiệp cần cần xây dựng cho mình hệ giá trị cốt lõi. EmoGifts xây dựng cho mình 4 giá trị cốt lõi: 
                          “THẤU HIỂU – TRÁCH NHIỆM – SÁNG TẠO - CHỈN CHU”
- Thấu hiểu: để đáp ứng mong muốn của khách hàng.
+- Thấu hiểu: để đáp ứng mong muốn của khách hàng.
 Thấu hiểu là hiểu mình có những gì, hiểu đối thủ có những gì, và hiểu khách hàng muốn những gì. Từ đó có giải pháp đáp ứng mong muốn của khách hàng, cạnh tranh với đối thủ.
- Trách nhiệm: để đảm bảo các cam kết. 
+- Trách nhiệm: để đảm bảo các cam kết. 
 Trách nhiệm là luôn cân nhắc kỹ trước khi hứa, đã hứa phải thực hiện bằng được. Trách nhiệm không chỉ với khách hàng mà với cả công ty, với cả bản thân mình.
- Sáng tạo: để độc đáo.
+- Sáng tạo: để độc đáo.
 Sáng tạo là luôn cập nhật sản phẩm mới, tìm kiếm thị trường mới, đưa ra cách làm mới. Những sáng tạo này giúp Emogifts luôn độc đáo và ấn tượng trong mắt khách hàng, giúp Emgifts luôn dẫn đầu thị trường quà tặng.
- Chỉn chu: tạo nên sự tinh tế.
+- Chỉn chu: tạo nên sự tinh tế.
 Của cho không bằng cách cho. Món quà từ xa xưa đã hàm chứa giá trị Cảm xúc chứ không dừng lại ở giá trị vật chất. Muốn đạt được giá trị Cảm xúc đó, các món quà cần được làm chỉn chu từ sản phẩm, đến in ấn, đến hộp đựng, đến cả thùng carton phía ngoài, đến cả cách thức giao hàng.
 Mỗi chúng ta cũng cần thể hiện sự chỉn chu trong từng lời nói câu chào, từ văn bản tài liệu gửi tới khách hàng, có như vậy mới tạo sự tin tưởng về sự chỉn chu cho sản phẩm dịch vụ.
 EmoGifts không tập trung vào cạnh tranh giá rẻ, mà cạnh tranh bằng các giá trị mà chúng ta mang đến cho khách hàng.
-4.	Sơ lược về EmoGifts: 
+
+4.Sơ lược về EmoGifts: 
 •	Tên công ty: Công ty TNHH Quà tặng Cảm xúc (EmoGifts)
 Tên giao dịch: Quà tặng Cảm xúc / EmoGifts
 
@@ -234,59 +233,47 @@ Website: www.quatangcamxuc.vn
 Giấy chứng nhận đăng ký kinh doanh: 0108101444 ngày 19/12/2017
 Mã số thuế: 0108101444
 Vốn điều lệ: 5.000.000.000vnđ (Năm tỷ đồng)
-•	Lĩnh vực hoạt động: 
+•Lĩnh vực hoạt động: 
 Cung cấp Quà tặng, với hàng nghìn đầu mục sản phẩm như: Ô dù, áo mưa, áo thun, ly cốc, ấm chén, pin sạc dự phòng, túi xách du lịch… Các sản phẩm này được sử dụng cho các chương trình: Kỷ niệm ngày thành lập, Trao thưởng, Đại hội, Chăm sóc khách hàng hoặc nhân viên, Khuyến mãi…
-Tổng số nhân viên hiện tại của EmoGifts là 12 người; trong đó có 01 giám đốc, 03 kế toán, 02 thiết kế, 02 sản xuất, 04 nhân viên kinh doanh. Thu nhập bình quân của Nhân viên kinh doanh công ty đạt trên 20 triệu/tháng, quỹ lương mỗi tháng của cả công ty trên 200tr, quỹ phúc lợi hàng năm của cả công ty trên 300 triệu đồng.
-Họ và tên	Chức danh	Số điện thoại
-1.	Bùi Hoàng Đạt	Giám đốc	0912.068.999
-2.	Lê Thị Thu Nguyệt	Kế toán trưởng	0975.684.665
-3.	Bùi Thị Hương Giang	Nhân viên kế toán	
-4.	Phùng Thị Hoa	Nhân viên kế toán	
-5.	Phùng Văn Mạnh	Trưởng phòng cung ứng	0948.280.788
-6.	Kim Chi	Nhân viên phòng thiết kế	
-7.	Nguyễn Quốc Phong	Phụ trách bộ phận giao hàng	0982.865.119
-8.	Nguyễn Hoàng Sơn	Nhân viên bộ phận giao hàng	
-9.	Nguyễn Thị Tuyết	Trưởng phòng kinh doanh	0912.179.919
-10.	Bùi Thị Thu Hoài	Nhân viên kinh doanh	
-11.	Ngọc Anh	Nhân viên kinh doanh	
-12.	Diệu Thuý	Nhân viên kinh doanh	
 
- 
-Sơ đồ tổ chức của EmoGifts:
- 
-Bảng mô tả công việc và quy trình làm việc sẽ được xây dựng chi tiết cho từng vị trí.
-•	Văn hóa công ty:
+BẢNG MÔ TẢ CÔNG VIỆC (BSUNG)
+
+•Văn hóa công ty:
 Văn hóa doanh nghiệp là những thói quen, lề lối làm việc, phương cách ứng xử cùng hành vi của những con người trong một doanh nghiệp.
 EmoGifts định hướng xây dựng một nền văn hoá công ty mà ở đó mọi người luôn hòa đồng, đoàn kết, trách nhiệm, nỗ lực cùng công ty chinh phục các mục tiêu lớn lao.
 Văn hoá doanh nghiệp của EmoGifts sẽ bao gồm các giá trị chính yếu sau:
--	Hòa đồng: Môi trường công sở là một xã hội thu nhỏ của những con người với tính cách, suy nghĩ và quan điểm khác nhau. Vì thế, chúng ta không thể đòi hỏi ai đó phải giống mình hay mình phải giống ai đó. Hãy đặt cái tôi cá nhân dưới mọi người và tổ chức, chấp nhận sự khác biệt và sống chan hòa là cách để thích ứng và hòa đồng với mọi người xung quanh. 
--	Trung thực: Trung thực là thành thực với người và cả với chính mình, luôn tuân thủ chuẩn mực đạo đức chân thật trong từng lời nói và hành động. Đó là một trong những phẩm chất quan trọng nhất tạo nên giá trị của một con người chân chính. Tính trung thực giúp con người trở nên đáng tin cậy trong mọi mối quan hệ và giao dịch, đó là sức mạnh lớn nhất giúp thuyết phục người khác. Sống trung thực không phải lúc nào cũng dễ, nó đòi hỏi sự dũng cảm và nghiêm khắc với bản thân.
--	Khôn khéo: biết nói những gì cần nói, hỏi những điều cần hỏi, tranh luận những điều đáng tranh luận, nói đúng lúc đúng chỗ, biết trên biết dưới.
--	Trách nhiệm: thể hiện ở mức độ sẵn sàng với công việc, không ngại khó khăn, làm việc hết mình để thực hiện những gì mình đã hứa hẹn với với khách hàng và với công ty.
--	Tự giác: tất cả nhân sự phải nắm rõ nghĩa vụ của mình và luôn tự giác thực hiện, không để mình bị đốc thúc hay bị áp dụng các chế tài ép buộc.
+-Hòa đồng: Môi trường công sở là một xã hội thu nhỏ của những con người với tính cách, suy nghĩ và quan điểm khác nhau. Vì thế, chúng ta không thể đòi hỏi ai đó phải giống mình hay mình phải giống ai đó. Hãy đặt cái tôi cá nhân dưới mọi người và tổ chức, chấp nhận sự khác biệt và sống chan hòa là cách để thích ứng và hòa đồng với mọi người xung quanh. 
+-Trung thực: Trung thực là thành thực với người và cả với chính mình, luôn tuân thủ chuẩn mực đạo đức chân thật trong từng lời nói và hành động. Đó là một trong những phẩm chất quan trọng nhất tạo nên giá trị của một con người chân chính. Tính trung thực giúp con người trở nên đáng tin cậy trong mọi mối quan hệ và giao dịch, đó là sức mạnh lớn nhất giúp thuyết phục người khác. Sống trung thực không phải lúc nào cũng dễ, nó đòi hỏi sự dũng cảm và nghiêm khắc với bản thân.
+-Khôn khéo: biết nói những gì cần nói, hỏi những điều cần hỏi, tranh luận những điều đáng tranh luận, nói đúng lúc đúng chỗ, biết trên biết dưới.
+-Trách nhiệm: thể hiện ở mức độ sẵn sàng với công việc, không ngại khó khăn, làm việc hết mình để thực hiện những gì mình đã hứa hẹn với với khách hàng và với công ty.
+-Tự giác: tất cả nhân sự phải nắm rõ nghĩa vụ của mình và luôn tự giác thực hiện, không để mình bị đốc thúc hay bị áp dụng các chế tài ép buộc.
+
 •	Nội quy công ty
--	Những khoản lương, thưởng sẻ được trả vào ngày 10 hàng tháng sau thông qua tài khoản ngân hàng.
--	Mọi nhân viên đều chịu sự quản lý của cấp trên mình, nếu không giải quyết được các khó khăn thì có thể trao đổi trực tiếp với Giám đốc, lưu ý chuẩn bị kỹ các nội dung trước khi trao đổi.
--	Có trách nhiệm thực hiện khẩn trương và chính xác nhiệm vụ được giao, chỗ nào không rõ hoặc phát sinh tình huống kho khăn phải xin ý kiến lãnh đạo.
--	Vào cuối mỗi ngày làm việc, mọi nhân sự có trách nhiệm làm báo cáo tổng hợp tình hình làm việc trong ngày và kế hoạch làm việc cho ngày tiếp theo. Vào cuối ngày thứ 6 mỗi tuần, mọi nhân sự có trách nhiệm làm báo cáo tổng hợp tình hình làm việc trong tuần và kế hoạch làm việc cho tuần tiếp theo.
--	Có trách nhiệm đóng góp tích cực vào văn hóa doanh nghiệp, coi công ty như gia đình, đồng nghiệp như người thân, giữ gìn đoàn kết nội bộ, hỗ trợ nhau trong mọi công việc nhằm đạt được mục tiêu chung của cả công ty.
--	Xin nghỉ phải có kế hoạch trước ít nhất 1 ngày. Khi nghỉ phải gọi điện xin phép quản lý trực tiếp, đồng thời nhắn tin thông báo nghỉ lên nhóm công ty để mọi người nắm được.
--	Giữ bí mật tuyệt đối mọi thông tin của công ty.
--	Mọi người tự quản lý chỗ mình làm từ vệ sinh, xắp xếp tài liệu ngăn nắp. Không ăn uống trên bàn làm việc (Chỉ ăn uống trên bàn họp và rọn sạch sau khi ăn), hạn chế nói chuyện riêng trong giờ làm. 
--	Mọi người khi vào công ty đều phải mặc trang phục văn phòng hoặc đồng phục theo quy định.
--	Chấp hành nghiêm túc tác phong giờ giấc, sáng bắt đầu làm việc từ 8h đến 12h, chiều làm việc từ 13h15 đến 17h15.
--	Check vân tay khi tới công ty và khi ra về
--	Khi ra về mọi người phải có trách nhiệm kiểm tra hệ thống điện và chốt cửa.
-•	Quản lý và đánh giá nhân viên:
+- Những khoản lương, thưởng sẻ được trả vào ngày 10 hàng tháng sau thông qua tài khoản ngân hàng.
+- Mọi nhân viên đều chịu sự quản lý của cấp trên mình, nếu không giải quyết được các khó khăn thì có thể trao đổi trực tiếp với Giám đốc, lưu ý chuẩn bị kỹ các nội dung trước khi trao đổi.
+- Có trách nhiệm thực hiện khẩn trương và chính xác nhiệm vụ được giao, chỗ nào không rõ hoặc phát sinh tình huống kho khăn phải xin ý kiến lãnh đạo.
+- Vào cuối mỗi ngày làm việc, mọi nhân sự có trách nhiệm làm báo cáo tổng hợp tình hình làm việc trong ngày và kế hoạch làm việc cho ngày tiếp theo. Vào cuối ngày thứ 6 mỗi tuần, mọi nhân sự có trách nhiệm làm báo cáo tổng hợp tình hình làm việc trong tuần và kế hoạch làm việc cho tuần tiếp theo.
+- Có trách nhiệm đóng góp tích cực vào văn hóa doanh nghiệp, coi công ty như gia đình, đồng nghiệp như người thân, giữ gìn đoàn kết nội bộ, hỗ trợ nhau trong mọi công việc nhằm đạt được mục tiêu chung của cả công ty.
+- Xin nghỉ phải có kế hoạch trước ít nhất 1 ngày. Khi nghỉ phải gọi điện xin phép quản lý trực tiếp, đồng thời nhắn tin thông báo nghỉ lên nhóm công ty để mọi người nắm được.
+- Giữ bí mật tuyệt đối mọi thông tin của công ty.
+- Mọi người tự quản lý chỗ mình làm từ vệ sinh, xắp xếp tài liệu ngăn nắp. Không ăn uống trên bàn làm việc (Chỉ ăn uống trên bàn họp và rọn sạch sau khi ăn), hạn chế nói chuyện riêng trong giờ làm. 
+- Mọi người khi vào công ty đều phải mặc trang phục văn phòng hoặc đồng phục theo quy định.
+- Chấp hành nghiêm túc tác phong giờ giấc, sáng bắt đầu làm việc từ 8h đến 12h, chiều làm việc từ 13h15 đến 17h15.
+- Check vân tay khi tới công ty và khi ra về
+- Khi ra về mọi người phải có trách nhiệm kiểm tra hệ thống điện và chốt cửa.
+
+• Quản lý và đánh giá nhân viên:
 Đánh giá nhân viên một cách công bằng dựa trên giá trị mà mỗi nhân sự tạo ra là một trong những yếu tố vô cùng quan trọng để gây dựng nên một môi trường làm việc hấp dẫn. EmoGifts sẽ xây dựng phương pháp đánh giá nhân viên bằng các chỉ tiêu (KPI) dựa trên sự đồng thuận chung của tập thể. Hoạt động đánh giá nhân viên nhằm thúc đẩy nhân viên làm việc hiệu quả hơn cũng như gia tăng sự thoả mãn của từng nhân sự.
 Có bảng mô tả công việc và nội quy rõ ràng. Mọi hành động của nhân viên đều được đánh giá và khen thưởng, kỷ luật nghiêm minh.
 Công ty luôn khuyến khích và sẽ khen thưởng cho nhân viên đóng góp sáng kiến xây dựng công ty ngày càng phát triển.
-•	Chế độ phúc lợi cho nhân viên:
+
+•Chế độ phúc lợi cho nhân viên:
 Lương bổng là động lực kích thích con người làm việc hăng hái, vì vậy EmoGifts luôn tạo điều kiện để nhân sự phát huy tối đa giá trị bản thân nhằm mang lại mức thu nhập ở mức khá so với mặt bằng thu nhập tại Hà Nội. 
 Có chính sách bảo hiểm đầy đủ cho nhân viên trong công ty. Bên cạnh đó, hàng năm EmoGifts sẽ tổ chức các chuyến du lịch Hè, du xuân, Dã ngoại đốt lửa trại trong dịp sinh nhật công ty, tặng quà nhân viên vào các dịp đặc biệt như sinh nhật, lễ tết…
 Chính sách lương bổng nên duy trì ổn định nhưng cũng sẽ điều chỉnh kịp thời khi tình hình thay đổi. Chú trọng giảm chi phí không cần thiết, tăng năng suất và mức thù lao đủ cao để các nhân sự yên tâm làm việc và gắn bó lâu dài với công ty.
 Có kế hoạch luân chuyển, thăng tiến cho nhân viên để tăng thử thách, tăng thu nhập và tạo mục tiêu cho nhân viên phấn đấu.
-•	Chính sách đào tạo và phát triển
+
+• Chính sách đào tạo và phát triển
 EmoGifts sẽ luôn dành một phần trong tổng doanh thu của mình cho đào tạo. Tuỳ vào từng vị trí và mỗi nhiệm vụ, công ty sẽ có chương trình đào tạo phù hợp:
 -	Đối với Nhân viên kinh doanh: Luôn trau rồi các kỹ năng kinh doanh qua quá trình làm việc, cho tham gia các khóa học kỹ năng ngắn hạn tại các trung tâm đào tạo, hàng tuần đào tạo kiến thức sản phẩm và các kỹ năng trong kinh doanh.
 -	Đối với Nhân viên Thiết kế - Sản xuất: Luôn hướng tới thiết kế chuyên nghiệp, tạo mô tuýp riêng cho mình, liên tục đào tạo và cập nhật kiến thức về sản phẩm.
@@ -372,27 +359,34 @@ Bảng khách hàng mục tiêu phân loại theo Ngành (20 Lĩnh vực):
 STT	LĨNH VỰC	CÁC NGÀNH	NHU CẦU DỰ KIẾN	SỐ LƯỢNG
 					
 Tổng:	10.249	
-1	Quân đội 	Các đơn vị thuộc Bộ Quốc Phòng 	- Kỷ niệm
+1	Quân đội 	Các đơn vị thuộc Bộ Quốc Phòng 	
+- Kỷ niệm
 - Đại hội (Đảng bộ, Công đoàn, Đoàn Thanh niên, Cựu chiến binh, Nông dân, Thi đua yêu nước, Thi đua quyết thắng, Nhiệm kỳ…)	1.359	
 					
-2	Công an 	Các đơn vị thuộc Bộ Công An 	- Kỷ niệm
+2	Công an 	Các đơn vị thuộc Bộ Công An 	
+- Kỷ niệm
 - Đại hội (Đảng bộ, Công đoàn, Đoàn Thanh niên, Cựu chiến binh, Nông dân, Thi đua yêu nước, Thi đua quyết thắng, Nhiệm kỳ…)	262	
-3	Chính quyền 	UBND các tỉnh, huyện, xã 	- Kỷ niệm
+3	Chính quyền 	UBND các tỉnh, huyện, xã 	
+- Kỷ niệm
 - Đại hội (Đảng bộ, Công đoàn, Đoàn Thanh niên, Cựu chiến binh, Nông dân, Thi đua yêu nước, Thi đua quyết thắng, Nhiệm kỳ…)	1.080	
 		Đảng ủy các tỉnh, huyện, xã 			
 		Các sở 			
-4	Bộ ban ngành 	Các bộ 	- Kỷ niệm
+4	Bộ ban ngành 	Các bộ 	
+- Kỷ niệm
 - Trao thưởng
 - Đại hội (Đảng bộ, Công đoàn, Đoàn Thanh niên, Cựu chiến binh, Nông dân, Thi đua yêu nước, Thi đua quyết thắng, Nhiệm kỳ…)	251	
 		Các ban, đảng trung ương (Ban dân vận, ban tuyên giáo, Ban tổ chức, Văn phòng Chính phủ, Văn phòng Chủ tịch nước…) 			
 		Viện kiểm sát tối cao, tòa án tối cao 			
-5	Viễn thông 	Viettel và các công ty trực thuộc 	- Kỷ niệm
+5	Viễn thông 	
+Viettel và các công ty trực thuộc 	
+- Kỷ niệm
 - Đại hội (Đảng bộ, Công đoàn, Đoàn Thanh niên, Cựu chiến binh, Nông dân, Thi đua yêu nước, Thi đua quyết thắng, Nhiệm kỳ…)
 - Chăm sóc khách hàng theo năm/quý/tháng 
-- Khuyến mãi	142	
-		VNPT và các công ty trực thuộc 			
-		Mobifone và các công ty trực thuộc 			
-6	Tài chính 	Agribank CN 	- Kỷ niệm
+- Khuyến mãi	142
+VNPT và các công ty trực thuộc 			
+Mobifone và các công ty trực thuộc 			
+6	Tài chính 	Agribank CN 	
+- Kỷ niệm
 - Chăm sóc khách hàng theo năm/quý/tháng 	364	
 		Vietinbank CN 			
 		Vietcombank CN 			
@@ -402,7 +396,8 @@ Tổng:	10.249
 		Các tổ chức tài chính 			
 		Các công ty Chứng khoán 			
 		Các công ty kiểm toán – kế toán 			
-7	Vật liệu xây dựng – Nội thất 	Bếp từ bếp gas 	- Kỷ niệm
+7	Vật liệu xây dựng – Nội thất 	Bếp từ bếp gas 	
+- Kỷ niệm
 - Chăm sóc khách hàng theo năm/quý/tháng 	783	
 		Xi măng 			
 		Sắt thép, nhôm, inox 			
@@ -412,11 +407,13 @@ Tổng:	10.249
 		Cửa, vách kính 			
 		Nội thất 			
 		Sơn (sơn tường, sơn gỗ) 			
-8	Bất động sản – xây dựng 	Các công ty Bất động sản 	- Kỷ niệm
+8	Bất động sản – xây dựng 	Các công ty Bất động sản 	
+- Kỷ niệm
 - Chăm sóc khách hàng theo năm/quý/tháng 	404	
 		Các công ty xây dựng 			
 		Các resort, khách sạn			
-9	Năng lượng – Môi trường 	Điện (Thuộc tập đoàn điện lực) 	- Kỷ niệm
+9	Năng lượng – Môi trường 	Điện (Thuộc tập đoàn điện lực) 	
+- Kỷ niệm
 - Đại hội (Đảng bộ, Công đoàn, Đoàn Thanh niên, Cựu chiến binh, Nông dân, Thi đua yêu nước, Thi đua quyết thắng, Nhiệm kỳ…)
 - Chăm sóc khách hàng theo năm/quý/tháng 	555	
 		Xăng dầu (Thuộc tập đoàn xăng dầu và một số cty nước ngoài) 			
@@ -424,7 +421,8 @@ Tổng:	10.249
 		Than khoán sản (Thuộc tập đoàn Than khoán sản) 			
 		Năng lượng mặt trời 			
 		Cấp thoát nước 			
-10	Thực phẩm – Đồ uống 	Bánh kẹo 	- Kỷ niệm
+10	Thực phẩm – Đồ uống 	Bánh kẹo 	
+- Kỷ niệm
 - Chăm sóc khách hàng theo năm/quý/tháng 
 - Khuyến mãi	357	
 		Bia rượu 			
@@ -432,25 +430,29 @@ Tổng:	10.249
 		Gia vị 			
 		Mì ăn liền 			
 		Sữa (Sữa chua, sữa bột, sữa tươi…) 			
-11	Dược mỹ phẩm - Thời trang 	Các công ty Dược 	- Kỷ niệm
+11	Dược mỹ phẩm - Thời trang 	Các công ty Dược 	
+- Kỷ niệm
 - Chăm sóc khách hàng theo năm/quý/tháng 
 - Khuyến mãi	570	
 		Các công ty Mỹ Phẩm 			
 		Các công ty sản xuất hàng tiêu dùng (Xà bông, Dầu gội, Kem đánh răng, tã giấy) 			
 		Dệt may, thời trang 			
 		Sản xuất Giày dép 			
-12	Hóa chất – Phụ gia 	Cao su 	- Kỷ niệm
+12	Hóa chất – Phụ gia 	Cao su 
+- Kỷ niệm
 - Chăm sóc khách hàng theo năm/quý/tháng 
 - Khuyến mãi	411	
 		Dầu nhớt 			
 		Phân bón 			
 		Chế phẩm hóa chất, sinh học 			
 		Thức ăn chăn nuôi, thức ăn gia súc 			
-13	Nông nghiệp – Thủy sản 	Các công ty nuôi trồng thủy sản 	- Kỷ niệm
+13	Nông nghiệp – Thủy sản 	Các công ty nuôi trồng thủy sản 	
+- Kỷ niệm
 - Chăm sóc khách hàng theo năm/quý/tháng 	443	
 		Các công ty chế biến thủy sản, chế biến sản phẩm nông nghiệp, trái cây 			
 		Các công ty trang trại: Cao su, Café, trái cây, rau sạch… 			
-14	Cơ Điện Tử 	Camera giám sát 	- Kỷ niệm
+14	Cơ Điện Tử 	Camera giám sát 	
+- Kỷ niệm
 - Chăm sóc khách hàng theo năm/quý/tháng 
 - Khuyến mãi	808	
 		Thiết bị điện gia dụng (Cáp điện ổ cắm, Quạt điện, Bình nóng lạnh, Máy lọc nước, Nồi cơm điện, máy giặt, tủ lạnh… 			
@@ -462,19 +464,23 @@ Tổng:	10.249
 		Máy phát điện 			
 		Thang máy 			
 		Cầu trục 			
-15	Truyền thông 	Báo chí  	- Kỷ niệm	133	
+15	Truyền thông 	Báo chí  	
+- Kỷ niệm	133	
 		Truyền hình, truyền thanh 			
 		Các công ty truyền thông 			
-16	CNTT - Thương mại điện tử 	Các công ty công nghệ 	- Kỷ niệm
+16	CNTT - Thương mại điện tử 	Các công ty công nghệ 	
+- Kỷ niệm
 - Chăm sóc khách hàng theo năm/quý/tháng 	175	
 		Các công ty phần mềm 			
 		Các công ty hoạt động thương mại điện tử 			
-17	Y tế - Giáo dục 	Các trường đại học, học viện, cao đẳng, trung cấp 	- Kỷ niệm	1.580	
+17	Y tế - Giáo dục 	Các trường đại học, học viện, cao đẳng, trung cấp 	
+- Kỷ niệm	1.580	
 		Các trường đảng, đoàn, bồi dưỡng cán bộ 			
 		Các trung tâm ngoại ngữ, đào tạo kỹ năng 			
 		Các bệnh viện, phòng khám đa khoa, cơ sở y tế 			
 		 			
-18	Hội - Viện – Liên đoàn 	Các hiệp hội 	- Kỷ niệm
+18	Hội - Viện – Liên đoàn 	Các hiệp hội 	
+- Kỷ niệm
 - Trao thưởng
 - Đại hội (Đảng bộ, Công đoàn, Đoàn Thanh niên, Cựu chiến binh, Nông dân, Thi đua yêu nước, Thi đua quyết thắng, Nhiệm kỳ…)	408	
 		Các liên đoàn (Liên đoàn bóng đá, liên đoàn võ thuật, Liên đoàn bóng rổ… 			
@@ -484,7 +490,8 @@ Tổng:	10.249
 - Chăm sóc khách hàng theo năm/quý/tháng 	25	
 		Các công ty Chuyển phát nhanh 			
 		Các công ty Logistics 			
-20	Khác 	Các khách hàng chưa phân vào đâu 	- Kỷ niệm
+20	Khác 	Các khách hàng chưa phân vào đâu 	
+- Kỷ niệm
 - Trao thưởng
 - Đại hội (Đảng bộ, Công đoàn, Đoàn Thanh niên, Cựu chiến binh, Nông dân, Thi đua yêu nước, Thi đua quyết thắng, Nhiệm kỳ…)
 - Chăm sóc khách hàng theo năm/quý/tháng 
@@ -824,44 +831,8 @@ Nhân viên kinh doanh	- Nắm vững quy trình kinh doanh và thực hiện th
 - Trực tiếp thực hiện, đốc thúc thực hiện hợp đồng, bao gồm các thủ tục giao hàng, xuất hoá đơn, cùng khách hàng kiểm tra chất lượng sản phẩm giao.
 - Nhận và xử lý các khiếu nại của khách hàng về chất lượng sản phẩm, thời gian giao hàng….
 - Hỗ trợ các bộ phận khác trong công ty khi có điều động từ cấp trên.
-I.	Thông tin về Quà tặng Cảm xúc (EmoGifts)
-Công ty Quà tặng Cảm xúc - EmoGifts xin gửi tới quý khách lời chào trân trọng và lời chúc tốt đẹp
-nhất.
-Là Công ty Quà tặng hàng đầu Việt Nam, tập trung phát triển các vật phẩm quà tặng hướng tới đối tượng Khách
-hàng doanh nghiệp, khách hàng của chúng tôi bao gồm cách thương hiệu lớn như: Vinaphone, MobiFone, Agribank, BIDV, Vinamilk, TH true milk, Vietcombank, KinhDo, Colgate…
-Sứ mệnh của chúng tôi là tư vấn các giải pháp quà tặng giúp Doanh nghiệp gia tăng hiệu quả Truyền thông–Marketing, đạt mục tiêu phát triển và nắm giữ khách hàng.
-Chúng tôi luôn tâm niệm
-“Tặng quà là trao cảm xúc”
-, món quà luôn chứa đựng ý nghĩa lớn lao, là tình cảm, sự
-trân trọng mà Doanh nghiệp muốn gửi trao tới khách hàng, vì vậy trong suốt những năm qua, EmoGifts luỗn nỗ lực
-không ngừng nhằm nâng tầm giá trị cho mỗi mónquà.
-Giá trị cốt lõi của chúng tôilà:
- Thấu hiểu để đáp ứng mong muốn của khách hàng
- Trách nhiệm để đảm bảo các cam kết
- Sáng tạo để độc đáo
- Chỉn chu tạo nên sự tinh tế.
-Với đội ngũ nhân sự năng động và giàu nhiệt huyết cùng các họa sĩ thiết kế đầy sáng tạo, chắc chắn chúng tôi sẽ
-mang đến cho quý khách những sản phẩm quà tặng độc đáo phù hợp từng đối tượng khách hàng, với chất lượng tốt
-nhất, giá thành cạnh tranh nhất và dịch vụ hoàn hảo nhất.
-Xin chân thành cảm ơn!
-Trân trọng!
-THÔNG TIN CHUNG
-Tên Công ty : CÔNG TY TNHH QUÀ TẶNG CẢM XÚC (EMOGIFTS)
-Địa chỉ : Căn thương mại 108, Chung cư Học viện Quốc Phòng, đường Xuân Tảo, phường Xuân La, quận Tây Hồ, thành phố Hà Nội
-Điện thoại : 0912068999 (mr Đạt – Giám đốc), 0912179919 (Ms Tuyết – Tp. Kinh doanh)
-Thông tin lãnh đạo: Ông Bùi Hoàng Đạt – Giám Đốc
-Mobile: 0912 068 999
-Địa chỉ e-mail : quatangcamxuc@gmail.com
-Địa chỉ Website: www.quatangcamxuc.vn
-Loại hình tổ chức: Công ty Tư nhân
-Loại hình hoạt động: Công ty sản xuất, thương mại.
-Dưới sự lãnh đạo của : Sở Kế hoạch và Đầu tư Thành phố Hà Nội.
-Thành lập năm : 2017
-Mã số thuế: 0108101444
-Vốn điều lệ: 5.000.000.000 vnđ (Năm tỷ Việt Nam đồng)
-Doanh số 5 năm gần nhất: 100 tỷ đồng/năm
-Số tài khoản: 006704060173265 tại Ngân hàng VIB chi nhánh Ba Đình, Hà Nội.
-Các ngành kinh doanh chính: Quà tặng kỷ niệm ngày thành lập, Quà tặng huân huy chương kỷ niệm chương trao thưởng, Quà tặng Đại hội (Đảng bộ, Công Đoàn, Đoàn Thanh niên, Hội nông dân, Hội cựu chiến Binh…), Quà tặng Doanh nghiệp, Chăm sóc khách hàng, Quà tăng khuyến mãi…
+
+
 II.	Kế hoạch kinh doanh 2025 của Emo
 1.	Tình hình làm việc các nhân sự:
 v	Kinh doanh:
@@ -980,152 +951,7 @@ Công tác nhân sự 2025 của Emo:
 
 
 
-CÔNG TY TNHH QUÀ TẶNG CẢM XÚC
---~~oo00oo~~--
- 
-LƯU HÀNH NỘI BỘ
 
-Quyển số: ………
-
-
- 
- 
-
-
-PHẦN 1	I.	Sơ lược về ngành quà tặng và công ty	01 ngày
-	II.	Sản phẩm – khách hàng của công ty	
-PHẦN 2	III.	Đào tạo kỹ năng cho Nhân viên kinh doanh	03 ngày
-	IV.	Đào tạo sử dụng phần mềm Quản lý khách hàng	
-	V.	Bảng mô tả công việc và quy trình nội bộ	
-
-
- 	
-
- 
- 
-Dù có làm việc ở đâu, thì cũng hãy nhớ 7 nguyên tắc quan trọng này!
-
-Nguyên tắc 1: Công việc không nuôi người nhàn hạ, tập thể không nuôi những kẻ lười.
-Nguyên tắc 2: Vào một đơn vị làm việc, đừng chỉ chăm chăm vào việc kiếm tiền, trước tiên hãy học sao cho mình đáng tiền.
-Nguyên tắc 3: Không có ngành nào là dễ kiếm tiền cả. 
-Nguyên tắc 4: Làm việc, không có nơi nào là thuận lợi cả, ức chế bực dọc là chuyện bình thường.
-Nguyên tắc 5: 
--Không kiếm được tiền, thì kiếm được kiến thức. 
--Không kiếm được kiến thức thì kiếm được kinh nghiệm. 
--Không kiếm được kinh nghiệm, thì kiếm được trải nghiệm. 
--Khi kiếm được những thứ trên rồi, thì không sợ không kiếm được tiền.
-Nguyên tắc 6: Chỉ khi thay đổi thái độ của bản thân, ta mới có thể thay đổi được chỗ đứng của mình trong xã hội. 
-Chỉ khi thay đổi thái độ làm việc của bản thân, ta mới có được vị trí cao trong nghề nghiệp.
-Nguyên tắc 7: Nguyên nhân khiến con người ta cảm thấy mơ hồ chỉ có một. Đó chính là trong những năm tháng mà đáng ra ta nên phấn đấu, nên làm việc chăm chỉ thì ta lại nghĩ quá nhiều, nhưng lại làm quá ít! 
-Hãy luôn nhớ: Làm việc bằng cái tâm! 
-Không có ai vừa sinh ra đã có thể đảm nhiệm được việc quan trọng, mà bất cứ ai cũng đều bắt đầu từ những việc giản đơn bình thường nhất. Hôm nay bạn dán lên mình một cái mác thế nào, liệu ngày mai bạn có xứng đang với các mác đó không?. Mức độ để tâm, lo lắng cho công việc ảnh hưởng trực tiếp đến hiệu quả làm việc, bất kỳ một công ty nào cũng đều rất cần những nhân viên tích cực, có trách nhiệm và chủ động trong công việc. 
-Những nhân viên xuất sắc không bao giờ để vào thế bị động, đợi người khác sắp xếp công việc cho mình, mà họ luôn là người chủ động tìm hiểu việc mà mình nên làm, rồi dốc hết sức tìm mọi cách để hoàn thành tốt công việc ấy. 
-Mười loại người không bao giờ có được lương cao, cũng không đáng để bồi dưỡng: 
-1. Người muốn nghỉ cả thứ bảy và chủ nhật.
-2. Người muốn đi làm lúc chín giờ sáng và tan làm lúc năm giờ chiều. 
-3. Người muốn sống dựa vào lương cơ bản. 
-4. Người không có chí tiến thủ. 
-5. Người không có tư duy chạy đua với thời gian.
-6. Người làm việc gì cũng chậm chạp. 
-7. Người không có nhân phẩm. 
-8. Người không dám chịu trách nhiệm. 
-9. Người luôn cảm thấy sản phẩm của mình quá đắt. 
-10. Người luôn trách móc công ty. 
-
-Nhậm Chính Phi, người sáng lập ra công ty HuaWei đã từng nói: Có rất nhiều người hỏi tôi rằng, công ty có nghỉ cả thứ bảy và chủ nhật không? Có cần tăng ca không? 
-          Khi ấy tôi chỉ cười mà không nói gì, khách sáo mời họ ra khỏi công ty. Đã muốn nhàn rỗi, sao còn đi làm? Ở nhà luôn có phải là được nghỉ cả tuần rồi không? 
-           Là người, nếu không tranh thủ cố gắng khi còn trẻ, thế thì bạn có tuổi thanh xuân để làm gì? 
-Người ta đều nói tuổi trẻ chính là vốn, tôi muốn bổ sung thêm là, chỉ khi phấn đấu, vốn liếng của bạn mới có giá trị, chỉ khi liều mạng, tuổi trẻ của bạn mới đáng để bạn tự hào. 
--Mở miệng ra đã nhắc đến khó khăn, sự trưởng thành đã cách bạn quá xa rồi. 
--Mới bỏ ra chút công sức đã nghĩ đến việc báo đáp, cơ hội đã cách bạn quá xa rồi. 
--Vừa bắt tay vào làm đã nghĩ đến lợi ích cá nhân, trái ngọt đã cách bạn quá xa rồi. 
--Mới có chút khởi sắc đã đòi hỏi điều kiện, tương lai đã cách bạn quá xa rồi.
--Vừa mới hợp tác đã nghĩ cách cho mình không chịu thiệt, sự nghiệp đã cách bạn quá xa rồi. 
-Hy vọng bài viết này giúp ích được cho nhiều người, mong các bạn sẽ trở thành những nhân tài xuất sắc, với sự nghiệp thành công rực rỡ!
-Nguồn: Sưu tầm
-
- 
-I. SƠ LƯỢC VỀ CÔNG TY
-1.	Sự ra đời của ngành quà tặng:
-Khoảng nửa đầu thế kỷ 19, Jasper Meeks - một chủ nhà in ở Ohio, Mỹ được xem là một trong những người đầu tiên sáng tạo nên nền công nghiệp sản xuất hàng khuyến mãi khi anh ấy thuyết phục một cửa hàng giày in khắc tên của chính cửa hàng lên sản phẩm Cặp xách và tặng cho các trường học ở địa phương.
-Mãi đến những năm 1970, sự bùng nổ của Quà tặng khuyến mãi mới diễn ra khi hầu hết các công ty nhận ra lợi ích lớn lao đạt được từ việc tặng quà: ngoài việc tạo thiện cảm với khách hàng, gia tăng doanh số trong khi vẫn tiết kiệm chi phí đáng kể so với giảm giá sản phẩm, việc quà tặng có logo riêng sẽ giúp thúc đẩy hình ảnh và thương hiệu của họ. Một trong những công ty tiên phong trong lĩnh vực này là Coca – cola, Pepsi, Uniliver, P&G, Heineken…
-2.	Hiện trạng ngành quà tặng tại Việt Nam:
-Tại Việt Nam, ngành quà tặng xuất hiện khá muộn do sự lạc hậu về kinh tế. Tới khoảng những năm 2000, sau một loạt các chính sách mở cửa, kinh tế Việt Nam bắt đầu phát triển, ngành quà tặng bắt đầu xuất hiện. Tới nay, trải qua 20 năm mở cửa, kinh tế Việt Nam đang tăng trưởng mạnh, hàng chục nghìn  doanh nghiệp, tổ chức đã hình thành thói quen sử dụng Quà tặng cho các dự án hoặc sự kiện của mình.
-Do đặc trưng sản phẩm Quà tặng rất đa dạng và mẫu mã sản phẩm được cải tiến liên tục, vậy nên không một công ty quà tặng nào là nhà sản xuất, toàn bộ là các công ty thương mại.
-Tại Mỹ, các Công ty quà tặng còn được gọi là Nhà phân phối quà tặng, Các nhà phân phối này có khả năng tìm kiếm và cung cấp hàng chục ngàn sản phẩm từ khắp nơi trên thế giới. Ngay cả khi Internet xuất hiện, rồi Thương mại điện tử phát triển vẫn không thể thay thế được các công ty Quà tặng, thậm trí ngành Quà tặng còn liên tục tăng trưởng, vì một những lý do sau:
--	Một công ty Quà tặng tốt sẽ biết rõ về khả năng của các nhà sản xuất, từ đó có phương án khả thi, giúp Khách hàng tiết kiệm tiền bạc và thời gian.
--	Công ty Quà tặng giúp khách hàng tập hợp các phương án, hơn nữa còn tạo nên thiết kế mới đầy sáng tạo, sau đó làm việc với các nhà sản xuất để làm ra chúng, hoặc đơn giản chỉ là in ấn, đóng gói bắt mắt và giao hàng đúng hẹn tới các địa chỉ theo yêu cầu. Việc này các nhà máy hay đại lý truyền thống không thể làm tốt và thậm trí là ko thực hiện được. 
--	Các thương hiệu tại Việt Nam ngày càng lớn mạnh, trước sức ép cạnh tranh, họ chú trọng vào chiến lượng bán hàng trong đó tặng quà là giải pháp khôn ngoan. Áp lực canh tranh cùng đòi hỏi tính chuyên môn hoá cao, vậy nên đương nhiên họ sẽ thuê ngoài (outsource) thay vì tự làm tất cả.
--	Ở Việt Nam, các tổ chức/doanh nghiệp Nhà nước còn bị quản lý bởi luật đấu thầu, và các nhà phân phối truyền thống không quen với thủ tục này, mà phải thông qua các công ty Quà tặng để thực hiện quy trình mua sắm theo luật đấu thầu.
-Vậy nên các Công ty quà tặng sẽ luôn có giá trị trong chuỗi cung ứng. 
-3.	Chiến lược cạnh tranh của EmoGifts:
-Để tạo ra tính cạnh tranh bền vững, mỗi doanh nghiệp cần cần xây dựng cho mình hệ giá trị cốt lõi. EmoGifts xây dựng cho mình 4 giá trị cốt lõi: 
-                         “THẤU HIỂU – TRÁCH NHIỆM – SÁNG TẠO - CHỈN CHU”
- Thấu hiểu: để đáp ứng mong muốn của khách hàng.
-Thấu hiểu là hiểu mình có những gì, hiểu đối thủ có những gì, và hiểu khách hàng muốn những gì. Từ đó có giải pháp đáp ứng mong muốn của khách hàng, cạnh tranh với đối thủ.
- Trách nhiệm: để đảm bảo các cam kết. 
-Trách nhiệm là luôn cân nhắc kỹ trước khi hứa, đã hứa phải thực hiện bằng được. Trách nhiệm không chỉ với khách hàng mà với cả công ty, với cả bản thân mình.
- Sáng tạo: để độc đáo.
-Sáng tạo là luôn cập nhật sản phẩm mới, tìm kiếm thị trường mới, đưa ra cách làm mới. Những sáng tạo này giúp Emogifts luôn độc đáo và ấn tượng trong mắt khách hàng, giúp Emgifts luôn dẫn đầu thị trường quà tặng.
- Chỉn chu: tạo nên sự tinh tế.
-Của cho không bằng cách cho. Món quà từ xa xưa đã hàm chứa giá trị Cảm xúc chứ không dừng lại ở giá trị vật chất. Muốn đạt được giá trị Cảm xúc đó, các món quà cần được làm chỉn chu từ sản phẩm, đến in ấn, đến hộp đựng, đến cả thùng carton phía ngoài, đến cả cách thức giao hàng.
-Mỗi chúng ta cũng cần thể hiện sự chỉn chu trong từng lời nói câu chào, từ văn bản tài liệu gửi tới khách hàng, có như vậy mới tạo sự tin tưởng về sự chỉn chu cho sản phẩm dịch vụ.
-EmoGifts không tập trung vào cạnh tranh giá rẻ, mà cạnh tranh bằng các giá trị mà chúng ta mang đến cho khách hàng.
-4.	Sơ lược về EmoGifts: 
-•	Tên công ty: Công ty TNHH Quà tặng Cảm xúc (EmoGifts)
-Tên giao dịch: Quà tặng Cảm xúc / EmoGifts
-
-Trụ sở: Phòng 401, tầng 4 toà nhà Nhật An, số 30D Kim Mã Thượng, phường Cống Vị, quận Ba Đình, thành phố Hà Nội.
-Văn phòng: Phòng 108 khu Thương Mại, CC Học viện Quốc Phòng, đường Xuân Tảo, phường Xuân La, quận Tây Hồ, thành phố Hà Nội.
-Hotline: 0912068999
-Website: www.quatangcamxuc.vn
-Giấy chứng nhận đăng ký kinh doanh: 0108101444 ngày 19/12/2017
-Mã số thuế: 0108101444
-Vốn điều lệ: 5.000.000.000vnđ (Năm tỷ đồng)
-•	Lĩnh vực hoạt động: 
-Cung cấp Quà tặng, với hàng nghìn đầu mục sản phẩm như: Ô dù, áo mưa, áo thun, ly cốc, ấm chén, pin sạc dự phòng, túi xách du lịch… Các sản phẩm này được sử dụng cho các chương trình: Kỷ niệm ngày thành lập, Trao thưởng, Đại hội, Chăm sóc khách hàng hoặc nhân viên, Khuyến mãi…
-Tổng số nhân viên hiện tại của EmoGifts là 12 người; trong đó có 01 giám đốc, 03 kế toán, 02 thiết kế, 02 sản xuất, 04 nhân viên kinh doanh. Thu nhập bình quân của Nhân viên kinh doanh công ty đạt trên 20 triệu/tháng, quỹ lương mỗi tháng của cả công ty trên 200tr, quỹ phúc lợi hàng năm của cả công ty trên 300 triệu đồng.
-Họ và tên	Chức danh	Số điện thoại
-1.	Bùi Hoàng Đạt	Giám đốc	0912.068.999
-2.	Lê Thị Thu Nguyệt	Kế toán trưởng	0975.684.665
-3.	Bùi Thị Hương Giang	Nhân viên kế toán	
-4.	Phùng Thị Hoa	Nhân viên kế toán	
-5.	Phùng Văn Mạnh	Trưởng phòng cung ứng	0948.280.788
-6.	Kim Chi	Nhân viên phòng thiết kế	
-7.	Nguyễn Quốc Phong	Phụ trách bộ phận giao hàng	0982.865.119
-8.	Nguyễn Hoàng Sơn	Nhân viên bộ phận giao hàng	
-9.	Nguyễn Thị Tuyết	Trưởng phòng kinh doanh	0912.179.919
-10.	Bùi Thị Thu Hoài	Nhân viên kinh doanh	
-11.	Ngọc Anh	Nhân viên kinh doanh	
-12.	Diệu Thuý	Nhân viên kinh doanh	
-
- 
-Sơ đồ tổ chức của EmoGifts:
- 
-Bảng mô tả công việc và quy trình làm việc sẽ được xây dựng chi tiết cho từng vị trí.
-•	Văn hóa công ty:
-Văn hóa doanh nghiệp là những thói quen, lề lối làm việc, phương cách ứng xử cùng hành vi của những con người trong một doanh nghiệp.
-EmoGifts định hướng xây dựng một nền văn hoá công ty mà ở đó mọi người luôn hòa đồng, đoàn kết, trách nhiệm, nỗ lực cùng công ty chinh phục các mục tiêu lớn lao.
-Văn hoá doanh nghiệp của EmoGifts sẽ bao gồm các giá trị chính yếu sau:
--	Hòa đồng: Môi trường công sở là một xã hội thu nhỏ của những con người với tính cách, suy nghĩ và quan điểm khác nhau. Vì thế, chúng ta không thể đòi hỏi ai đó phải giống mình hay mình phải giống ai đó. Hãy đặt cái tôi cá nhân dưới mọi người và tổ chức, chấp nhận sự khác biệt và sống chan hòa là cách để thích ứng và hòa đồng với mọi người xung quanh. 
--	Trung thực: Trung thực là thành thực với người và cả với chính mình, luôn tuân thủ chuẩn mực đạo đức chân thật trong từng lời nói và hành động. Đó là một trong những phẩm chất quan trọng nhất tạo nên giá trị của một con người chân chính. Tính trung thực giúp con người trở nên đáng tin cậy trong mọi mối quan hệ và giao dịch, đó là sức mạnh lớn nhất giúp thuyết phục người khác. Sống trung thực không phải lúc nào cũng dễ, nó đòi hỏi sự dũng cảm và nghiêm khắc với bản thân.
--	Khôn khéo: biết nói những gì cần nói, hỏi những điều cần hỏi, tranh luận những điều đáng tranh luận, nói đúng lúc đúng chỗ, biết trên biết dưới.
--	Trách nhiệm: thể hiện ở mức độ sẵn sàng với công việc, không ngại khó khăn, làm việc hết mình để thực hiện những gì mình đã hứa hẹn với với khách hàng và với công ty.
--	Tự giác: tất cả nhân sự phải nắm rõ nghĩa vụ của mình và luôn tự giác thực hiện, không để mình bị đốc thúc hay bị áp dụng các chế tài ép buộc.
-•	Nội quy công ty
--	Những khoản lương, thưởng sẻ được trả vào ngày 10 hàng tháng sau thông qua tài khoản ngân hàng.
--	Mọi nhân viên đều chịu sự quản lý của cấp trên mình, nếu không giải quyết được các khó khăn thì có thể trao đổi trực tiếp với Giám đốc, lưu ý chuẩn bị kỹ các nội dung trước khi trao đổi.
--	Có trách nhiệm thực hiện khẩn trương và chính xác nhiệm vụ được giao, chỗ nào không rõ hoặc phát sinh tình huống kho khăn phải xin ý kiến lãnh đạo.
--	Vào cuối mỗi ngày làm việc, mọi nhân sự có trách nhiệm làm báo cáo tổng hợp tình hình làm việc trong ngày và kế hoạch làm việc cho ngày tiếp theo. Vào cuối ngày thứ 6 mỗi tuần, mọi nhân sự có trách nhiệm làm báo cáo tổng hợp tình hình làm việc trong tuần và kế hoạch làm việc cho tuần tiếp theo.
--	Có trách nhiệm đóng góp tích cực vào văn hóa doanh nghiệp, coi công ty như gia đình, đồng nghiệp như người thân, giữ gìn đoàn kết nội bộ, hỗ trợ nhau trong mọi công việc nhằm đạt được mục tiêu chung của cả công ty.
--	Xin nghỉ phải có kế hoạch trước ít nhất 1 ngày. Khi nghỉ phải gọi điện xin phép quản lý trực tiếp, đồng thời nhắn tin thông báo nghỉ lên nhóm công ty để mọi người nắm được.
--	Giữ bí mật tuyệt đối mọi thông tin của công ty.
--	Mọi người tự quản lý chỗ mình làm từ vệ sinh, xắp xếp tài liệu ngăn nắp. Không ăn uống trên bàn làm việc (Chỉ ăn uống trên bàn họp và rọn sạch sau khi ăn), hạn chế nói chuyện riêng trong giờ làm. 
--	Mọi người khi vào công ty đều phải mặc trang phục văn phòng hoặc đồng phục theo quy định.
--	Chấp hành nghiêm túc tác phong giờ giấc, sáng bắt đầu làm việc từ 8h đến 12h, chiều làm việc từ 13h15 đến 17h15.
--	Check vân tay khi tới công ty và khi ra về
--	Khi ra về mọi người phải có trách nhiệm kiểm tra hệ thống điện và chốt cửa.
-•	Quản lý và đánh giá nhân viên:
 Đánh giá nhân viên một cách công bằng dựa trên giá trị mà mỗi nhân sự tạo ra là một trong những yếu tố vô cùng quan trọng để gây dựng nên một môi trường làm việc hấp dẫn. EmoGifts sẽ xây dựng phương pháp đánh giá nhân viên bằng các chỉ tiêu (KPI) dựa trên sự đồng thuận chung của tập thể. Hoạt động đánh giá nhân viên nhằm thúc đẩy nhân viên làm việc hiệu quả hơn cũng như gia tăng sự thoả mãn của từng nhân sự.
 Có bảng mô tả công việc và nội quy rõ ràng. Mọi hành động của nhân viên đều được đánh giá và khen thưởng, kỷ luật nghiêm minh.
 Công ty luôn khuyến khích và sẽ khen thưởng cho nhân viên đóng góp sáng kiến xây dựng công ty ngày càng phát triển.
@@ -1673,358 +1499,4 @@ Nhân viên kinh doanh	- Nắm vững quy trình kinh doanh và thực hiện th
 - Nhận và xử lý các khiếu nại của khách hàng về chất lượng sản phẩm, thời gian giao hàng….
 - Hỗ trợ các bộ phận khác trong công ty khi có điều động từ cấp trên.
 
-Nội dung
-CÔNG TY TNHH QUÀ TẶNG CẢM XÚC
-PROFILE
-HỒ SƠ NĂNG LỰC
-www.quatangcamxuc.vn
-QUÀ TẶNG DOANH NGHIỆP
-QUÀ TẶNG KHUYẾN MÃI
-QUÀ TẶNG ĐẠI HỘI
-QUÀ TẶNG KỶ NIỆM NGÀY THÀNH LẬP
-QUÀ TẶNG TRAO THƯỞNG
-www.quatangcamxuc.vn
-Về chúng tôi
-     Công ty TNHH Quà tặng Cảm xúc - EmoGifts xin gửi tới quý khách lời chào trân trọng và lời chúc tốt đẹp nhất.
-    Là Công ty Quà tặng hàng đầu Việt Nam, tập trung phát triển các vật phẩm quà tặng hướng tới đối tượng khách hàng 
-doanh nghiệp, khách hàng của chúng tôi bao gồm cách thương hiệu lớn như: Vinaphone, MobiFone, Agribank, BIDV, Vietcom-
-bank, KinhDo, Colgate…
-     Sứ mệnh của chúng tôi là tư vấn các giải pháp quà tặng giúp Doanh nghiệp gia tăng hiệu quả Truyền thông – Marketing, 
-đạt mục tiêu phát triển và nắm giữ khách hàng.
-     Chúng tôi luôn tâm niệm “Tặng quà là trao cảm xúc”, món quà luôn chứa đựng ý nghĩa lớn lao, là tình cảm, sự trân trọng 
-mà Doanh nghiệp muốn gửi trao tới khách hàng, vì vậy trong suốt những năm qua, EmoGifts luỗn nỗ lực không ngừng nhằm 
-nâng tầm giá trị cho mỗi món quà.
-Hotline:
-02 EMOGifts Profile
- 0912 068 999
-    Với đội ngũ nhân sự năng động và giàu nhiệt huyết cùng các họa sĩ 
-Giá trị cốt lõi thiết kế đầy sáng tạo, chắc chắn chúng tôi sẽ mang đến cho quý khách 
-những sản phẩm quà tặng độc đáo phù hợp từng đối tượng khách 
-hàng, với chất lượng tốt nhất, giá thành cạnh tranh nhất và dịch vụ 
-hoàn hảo nhất.
-01 THẤU HIỂU
-Thấu hiểu để đáp ứng 
-mong muốn của khách hàng
-02 TRÁCH NHIỆM
-Trách nhiệm để 
-đảm bảo các cam kết
-03 SÁNG TẠO
-Sáng tạo để độc đáo
-04 CHỈN CHU
-Chỉn chu tạo nên sự tinh tế
-Hotline: 
-EMOGifts Profile 03
-0912 068 999
-Thông tin công ty
-CÔNG TY TNHH QUÀ TẶNG CẢM XÚC (EMOGIFTS)
-Tên Công ty : 
-Địa chỉ : Phòng 401 tầng 4 tòa nhà Nhật An, số 30D Kim Mã Thượng, Phường Cống Vị, Quận Ba Đình, Thành phố Hà Nội
-Ông Bùi Hoàng Đạt – Giám Đốc
-Điện thoại : 024 37662666 Fax: 0243 2115118
-0912 068 999
-Thông tin lãnh đạo: 
-Mobile: 
-Địa chỉ e-mail : quatangcamxuc@gmail.com
-Địa chỉ Website: www.emogifts.vn
-Loại hình tổ chức: Công ty Tư nhân
-Loại hình hoạt động: Công ty sản xuất, thương mại.
-Dưới sự lãnh đạo của : Sở Kế hoạch và Đầu tư Thành phố Hà Nội.
-Thành lập năm : 2017
-Mã số thuế: 0108101444
-Vốn điều lệ: 5.000.000.000 vnđ (Năm tỷ Việt Nam đồng)
-LĨNH VỰC HOẠT ĐỘNG
-Số tài khoản: 006704060173265 tại Ngân hàng VIB chi nhánh Ba Đình, Hà Nội.
- Tư vấn, thiết kế và sản xuất quà tặng doanh nghiệp, quà tặng công đoàn, quà tặng đối tác...
- Tư vấn, thiết kế và sản xuất đồ thủ công mĩ nghệ,đồ nội thất, văn phòng phẩm, thiết bị giáo dục, sản phẩm cơ khí, điện 
-dân dụng (Balo, túi xách, valy, ô dù, áo mưa, áo thun, ly cốc, usb...)
-Hotline:
-04 EMOGifts Profile
- 0912 068 999
-Hồ sơ pháp lý
-Hotline: 
-EMOGifts Profile 05
-0912 068 999
-Sơ đồ tổ chức công ty
-SƠ ĐỒ TỔ CHỨC
-GGIIÁÁMM  ĐĐỐỐCC
-PHÒNG PHÒNG
-PHÒNG CUNG ỨNG
-KINH DOANH KẾ TOÁN
-THIẾT KẾ MUA HÀNG GIAO HÀNG
-Hotline:
-06 EMOGifts Profile
- 0912 068 999
-Danh sách nhân sự
-NHÂN SỰ CHỦ CHỐT
-TRƯỞNG PHÒNG KINH DOANH
-NGUYỄN THỊ TUYẾT
-Đại học
-GIÁM ĐỐC KẾ TOÁN TRƯỞNG
-BÙI HOÀNG ĐẠT LÊ THU NGUYỆT
-Thạc sĩ
-Đại học
-TRƯỞNG PHÒNG CUNG ỨNG
-PHÙNG VĂN MẠNH
-Tổng số lao động hiện có:
-Đại học
-Trong lĩnh vực sản xuất: 
- 60 người
-Trong lĩnh vực kinh doanh: 
-12 người, cán bộ chuyên môn: 10 người
-32 người, trong đó cán bộ chuyên môn: 30người
-Tổng số cán bộ công nhân viên trong công ty là 60 người, trong đó: 2 người đang theo học sau đại học, 12 người trình độ 
-Đại học, 3 người đang học đại học tại chức, 8 người có trình độ cao đẳng, 10 người trình độ Trung cấp, 25 người lao động 
-phổ thông.
-Hotline: 
-EMOGifts Profile 07
-0912 068 999
-Dự án tiêu biểu
-DỰ ÁN DỰ ÁN DỰ ÁN
-ÁO CHOÀNG BIẾN HÌNH
-ĐĨA SỨ HỘP MỨT SƠN MÀI
-IDP Masan Thái Hưng
-Công ty CP Sữa Quốc tế  Công ty cổ phần hàng tiêu dùng  Công ty cổ phần thương mại 
-SỐ LƯỢNG: 150.000 (chiếc)  SỐ LƯỢNG: 59.900 (chiếc)  SỐ LƯỢNG: 1.100 (chiếc) 
-GIÁ TRỊ: 18.954.000.000 (VNĐ)  GIÁ TRỊ: 981.672.000 (VNĐ)  GIÁ TRỊ: 1.123.200.000 (VNĐ) 
-DỰ ÁN DỰ ÁN DỰ ÁN
-BIỂU TRƯNG ĐỒNG HỒ PHALE 
-ĐỒNG HỒ ĐỂ BÀN CAO CẤP ĐÈN LED KEDI
-IDP VNPT Hưng Yên VNPT Thanh hóa
-Công ty CP Sữa Quốc tế  Trung tâm kinh doanh  Trung tâm kinh doanh 
-SỐ LƯỢNG: 180.000 (chiếc)  SỐ LƯỢNG: 673 (chiếc)  SỐ LƯỢNG: 4.900 (chiếc) 
-GIÁ TRỊ: 974.620.000 (VNĐ)  GIÁ TRỊ: 2.005.672.000 (VNĐ)  GIÁ TRỊ: 2.748.900.000 (VNĐ) 
-Hotline:
-08 EMOGifts Profile
- 0912 068 999
-Dự án tiêu biểu
-DỰ ÁN DỰ ÁN DỰ ÁN
-BÌNH NƯỚC GIỮ NHIỆT
-CẶP TAP ĐA NĂNG KIÊM SẠC DỰ PHÒNG CẶP DA HIỆU SAPOLNEY
-IDP VNPT Hà Nội Trường Hải
-Công ty CP Sữa Quốc tế  Trung tâm kinh doanh  Công ty cổ phần ô tô 
-SỐ LƯỢNG: 180.000 (chiếc)  SỐ LƯỢNG: 1.130 (chiếc)  SỐ LƯỢNG: 1.100 (chiếc) 
-GIÁ TRỊ: 11.932.000.000 (VNĐ)  GIÁ TRỊ: 2.316.072.000 (VNĐ)  GIÁ TRỊ: 1.319.200.000 (VNĐ) 
-DỰ ÁN DỰ ÁN DỰ ÁN
-CÂN SỨC KHỎE ĐO CHỈ SỐ CƠ THỂ
-THUYỀN BUỒM MẠ VÀNG QUẠT CẦM TAY
-Traphaco  (EVN) IDP
-Công ty CP  CÔNG TY DỊCH VỤ ĐIỆN LỰC MIỀN BẮC Công ty CP Sữa Quốc tế 
-SỐ LƯỢNG: 5.730 (chiếc)  SỐ LƯỢNG: 3.263 (chiếc)  SỐ LƯỢNG: 100.000 (chiếc) 
-GIÁ TRỊ: 1,386,660,000 (VNĐ)  GIÁ TRỊ: 3.365.672.000 (VNĐ)  GIÁ TRỊ: 5,508,000,000 (VNĐ) 
-Hotline: 
-EMOGifts Profile 09
-0912 068 999
-Dự án tiêu biểu
-DỰ ÁN DỰ ÁN DỰ ÁN
-ẤM SIÊU TỐC LOCK & LOCK
-BÌNH HÚT LỘC ĐẮP NỔI BÌNH NƯỚC LÚA MẠCH KUN
-Khánh Hòa VNPT Thanh hóa IDP
-Công ty than  Trung tâm kinh doanh  Công ty CP Sữa Quốc tế 
-SỐ LƯỢNG: 1.100 (chiếc)  SỐ LƯỢNG: 3.100 (chiếc)  SỐ LƯỢNG: 150.000 (chiếc) 
-GIÁ TRỊ: 734.000.000 (VNĐ)  GIÁ TRỊ: 2.562.672.000 (VNĐ)  GIÁ TRỊ: 10.836.200.000 (VNĐ) 
-DỰ ÁN DỰ ÁN DỰ ÁN
-BÌNH NƯỚC ĐẦU BÒ
-SET QUÀ TẶNG CÔNG NGHỆ TÚI TRỐNG CÓ CẦN KÉO
-IDP VNPT Vinaphone Hoàng Dương
-Công ty CP Sữa Quốc tế  Ban khách hàng  Công ty dược phẩm 
-SỐ LƯỢNG: 88.000 (chiếc)  SỐ LƯỢNG: 2.200 (set)  SỐ LƯỢNG: 1.550 (chiếc) 
-GIÁ TRỊ: 7.759.080.560 (VNĐ)  GIÁ TRỊ: 726.632.000 (VNĐ)  GIÁ TRỊ: 879.235.000 (VNĐ) 
-Hotline:
-10 EMOGifts Profile
- 0912 068 999
-Đối tác tiêu biểu
-Aspire to inspire the Digital World
-Hotline: 
-EMOGifts Profile 11
-0912 068 999
-Sản phẩm của chúng tôi
-1. ĐÈN LED KEDI 6. QUÀ TẶNG MẸ VÀ BÉ
-2. QUÀ TẶNG CÔNG NGHỆ 7. QUÀ TẶNG PHÁT MÃI
-3. QUÀ TẶNG GIA DỤNG 8. ẤM CHÉN - BÌNH CỐC
-4. QUÀ TẶNG DU LỊCH 9. CẶP SÁCH - BALO - VALI
-5. QUÀ TẶNG VĂN  PHÒNG 10. BIỂU TRƯNG - LOGO
-Đèn Led KL0101 Đèn Led KL0110
-1. ĐÈN LED 
-KEDI Giá tham khảo: 800k Giá tham khảo: 400k
-Đèn Led KL0112 Đèn Led KL0112
-Giá tham khảo: 500k Giá tham khảo: 300k
-Hotline:
-14 EMOGifts Profile
- 0912 068 999
-2. QUÀ TẶNG 
-CÔNG NGHỆ
-Tai nghe Samsung Galaxy Buds Live Tai nghe Bluethooth Pisen
-Giá tham khảo: 2.000k Giá tham khảo: 1.000k
-Sổ sạc đa năng Pin sạc dự phòng Baseus
-Giá tham khảo: 800k Giá tham khảo: 450k
-Hotline: 
-EMOGifts Profile 15
-0912 068 999
-QUÀ TẶNG CÔNG NGHỆ
-Loa Bluetooth JBL go 3 Pin sạc dự phòng Baseus Bộ quà tặng công nghệ 6 món
-Giá tham khảo: 1.000k Giá tham khảo: 500k Giá tham khảo: 1.000k
-Đồng hồ đa năng Momax Pin sạc ko dây kèm cáp sạc Đế sạc ko dây dùng cho xe ô tô
-Giá tham khảo: 1.200k Giá tham khảo: 500k Giá tham khảo: 800k
-Hotline:
-16 EMOGifts Profile
- 0912 068 999
-QUÀ TẶNG CÔNG NGHỆ
-Miếng lót chuột  Đồng hồ kiêm sạc  Đế sạc không dây 6 in 1
-kiêm sạc không dây dự phòng không dây
-Giá tham khảo: 300k Giá tham khảo: 500k
-Giá tham khảo: 600k
-Loa Bluethooth Sony Ví sạc đa năng Sổ đựng tài liệu A4 đa năng
-Giá tham khảo: 800k Giá tham khảo: 600k Giá tham khảo: 800k
-Hotline: 
-EMOGifts Profile 17
-0912 068 999
-3. QUÀ TẶNG 
-GIA DỤNG 
-Máy đo huyết áp Máy sấy tóc Sunhouse
-Giá tham khảo: 1.000k Giá tham khảo: 500k
-Bộ khay mứt hai tầng Bàn ủi khô
-Giá tham khảo: 380k
-Giá tham khảo: 300k
-Hotline:
-18 EMOGifts Profile
- 0912 068 999
-QUÀ TẶNG GIA DỤNG
-Bàn là hơi nước cầm tay Bộ hộp đựng thực phẩm Bộ khay mứt gỗ
-kèm túi giữ nhiệt 
-Giá tham khảo: 500k Giá tham khảo: 500k
-Giá tham khảo: 280k
-Bộ khay mứt Bát Tràng SƠN MÀI Bộ hộp thủy tinh Lock&Lock Bộ nồi chảo inox - Elmich
-Giá tham khảo: 800k Giá tham khảo: 250k Giá tham khảo: 1.300K
-Hotline: 
-EMOGifts Profile 19
-0912 068 999
-4. QUÀ TẶNG 
-DU LỊCH
-Mũ lưỡi trai phối lưới Mũ lưỡi trai
-Giá tham khảo: 60k Giá tham khảo: 450k
-Gối chữ U Áo thun
-Giá tham khảo: 60k Giá tham khảo: 150k
-Hotline:
-20 EMOGifts Profile
- 0912 068 999
-QUÀ TẶNG DU LỊCH
-Ô dù Áo thun 65/35 Túi vải Canvas
-Giá tham khảo: 150k Giá tham khảo: 80k Giá tham khảo: 150k
-Túi vải đay  Khăn tắm Bình giữ nhiệt
-Giá tham khảo: 200k Giá tham khảo: 100k Giá tham khảo: 90k
-Hotline: 
-EMOGifts Profile 21
-0912 068 999
-5. QUÀ TẶNG 
-VĂN PHÒNG
-Bình hút lộc đắp nổi họa tiết Sổ da tích hợp sạc dự phòng
-Giá tham khảo: 2.500k Giá tham khảo: 600k
-Sổ da tích hợp khóa vân tay Set sổ da + bút ký
-Giá tham khảo: 300k
-Giá tham khảo:250k
-Hotline:
-22 EMOGifts Profile
- 0912 068 999
-QUÀ TẶNG VĂN PHÒNG
-Bút ký kim loại cao cấp Packer Lịch để bàn bằng gỗ Gối ngủ văn phòng
-Giá tham khảo: 1.000k Giá tham khảo: 300k Giá tham khảo: 300k
-BỘ ĐỂ BÀN BẰNG GỖ BỘ ĐỂ BÀN BẰNG PHA LE ĐỒNG HỒ ĐỂ BÀN
-Giá tham khảo: 300k Giá tham khảo: 450k Giá tham khảo: 350K
-Hotline: 
-EMOGifts Profile 23
-0912 068 999
-6. QUÀ TẶNG 
-MẸ VÀ BÉ
-Yếm ăn dặm có máng Silicon Yếm ăn dặm bằng vải
-Giá tham khảo: 20k Giá tham khảo: 30k
-Xe trượt Scooter Xe đẩy tập đi cho bé
-Giá tham khảo: 300k
-Giá tham khảo:700k
-Hotline:
-24 EMOGifts Profile
- 0912 068 999
-QUÀ TẶNG MẸ VÀ BÉ
-Thìa cảnh báo nóng Xe đẩy 3 bánh Đồng hồ gỗ
-Giá tham khảo: 60k Giá tham khảo: 750k Giá tham khảo: 70k
-Cầu trượt Bộ khay ăn dặm cho bé Bộ bàn ghép logo
-Giá tham khảo: 750k Giá tham khảo: 120k Giá tham khảo: 600K
-Hotline: 
-EMOGifts Profile 25
-0912 068 999
-7. QUÀ TẶNG 
-PHÁT MÃI
-Mũ bảo hiểm có kính ASIAN Mũ bảo hiểm 1/2
-Giá tham khảo: 400k Giá tham khảo: 150k
-Ô gấp ngược Ô tự động hai chiều
-Giá tham khảo: 170k
-Giá tham khảo: 150k
-Hotline:
-26 EMOGifts Profile
- 0912 068 999
-QUÀ TẶNG PHÁT MÃI
-Khuy bia Túi giữ nhiệt đựng hộp cơm Bộ nail chăm sóc móng tay
-Giá tham khảo: 20k Giá tham khảo: 50k Giá tham khảo: 100k
-Áo mưa vải dù vân tổ ong TÚI ĐỰNG MỸ PHẨM Máy lửa in logo
-Giá tham khảo: 90k Giá tham khảo: 50k Giá tham khảo: 10K
-Hotline: 
-EMOGifts Profile 27
-0912 068 999
-8. ẤM CHÉN
-BÌNH CỐC
-Bộ trà hoa văn có giá treo inox Bộ trà cao cấp kẻ chỉ vàng
-Giá tham khảo: 1.200k Giá tham khảo: 1.000k
-Bộ bình trà Decor cao cấp  Bộ ly rượu đúc vàng 24k
-Giá tham khảo: 700k
-Giá tham khảo: 1.000k
-Hotline:
-28 EMOGifts Profile
- 0912 068 999
-ẤM CHÉN - BÌNH CỐC
-Bộ bình rượu phale Tiệp Cốc sứ kèm lọc trà – Bát Tràng Bình hoa gốm sứ Bát Tràng
-Giá tham khảo: 1.500k Giá tham khảo: 80k Giá tham khảo: 150k
-Bộ cốc hâm nóng coffe Bộ bình Luminarc 5 món Bình hút lộc vẽ vàng
-Giá tham khảo: 150k Giá tham khảo: 300k Giá tham khảo: 700K
-Hotline: 
-EMOGifts Profile 29
-0912 068 999
-9. CẶP SÁCH
-BALO - VALI
-Cặp da simili Cặp Đựng Laptop
-Giá tham khảo: 500k Giá tham khảo: 300k
-Balo chống trộm Balo kết nối Bluetooth
-Giá tham khảo: 1.000k
-Giá tham khảo: 1.000k
-Hotline:
-30 EMOGifts Profile
- 0912 068 999
-CẶP SÁCH - BALO - VALI
-Cặp da khóa số Túi trống du lịch Túi cần kéo
-Giá tham khảo: 120k Giá tham khảo: 350k Giá tham khảo: 450k
-Vali kéo cao cấp khung nhôm Vali du lịch size 20 inch Vali du lịch
-Giá tham khảo: 1.000k Giá tham khảo: 450k Giá tham khảo: 500K
-Hotline: 
-EMOGifts Profile 31
-0912 068 999
-10. BIỂU TRƯNG 
-LOGO
-Biểu trưng kim loại Cup huy chương 
-Giá tham khảo: 500k Giá tham khảo:500k
-Huy chương  Biểu trưng đĩa đồng
-Giá tham khảo: 150k
-Giá tham khảo: 600k
-Hotline:
-32 EMOGifts Profile
- 0912 068 999
-BIỂU TRUNG - LOGO
-Cầu Phale Cup Phale Cup Phale
-Giá tham khảo: 650k Giá tham khảo: 500k Giá tham khảo: 250k
-Tranh mạ vàng 24k Biểu trưng gỗ đồng Mô hình tên lửa mạ vàng
-Giá tham khảo: 1.200k Giá tham khảo: 1.000k Giá tham khảo: 9.000K
-Hotline: 
-EMOGifts Profile 33
-0912 068 999
-CÔNG TY TNHH QUÀ TẶNG CẢM XÚC
-0912 068 999
-Căn thương mại 108, Tầng 1, Chung Cư Học Viện Quốc Phòng Đ.Xuân Tảo, P.Xuân La, Q.Tây Hồ, Tp.Hà Nội.
-quatangcamxuc@gmail.com
-www.quatangcamxuc.vn
+
