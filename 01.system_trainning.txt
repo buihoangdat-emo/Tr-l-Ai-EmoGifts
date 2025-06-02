@@ -1587,16 +1587,8 @@ b. Vấn đề chung:
 2.2 Về phía các nhân sự phòng Kinh doanh:
 a. Lập bảng kế hoạch kinh doanh tháng 6 trên cơ sở tệp khách hàng được phân bổ
  KPI doanh số:
-Nhân viên Doanh số
-(Triệu đồng/ tháng) Nhân viên (Triệu đồng/ tháng)
-Doanh số
-Chị Hoài
-Dũng
-Chị Tuyết Tuấn
-600
-150
-Thúy Bảo
-Tuấn Anh Như
+Chị Hoài, Chị Tuyết, Thuý, Tuấn Anh: 600tr/tháng
+Bảo, Tuấn, Như, DŨng: 150tr/tháng
  KPI CHBH:
 + Số CHBH mới: Tối thiểu 20 CHBH/ tháng
 + Số liên hệ mới: 48 liên hệ mới/ tháng (Xác nhận được người phụ trách)
